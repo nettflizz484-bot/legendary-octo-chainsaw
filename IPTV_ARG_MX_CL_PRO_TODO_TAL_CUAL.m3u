@@ -1,0 +1,535 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="24H | Chespirito" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="✔️ TV | 24 HORAS",24H | Chespirito
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266543
+#EXTINF:-1 tvg-id="" tvg-name="24H | El Chavo del 8" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="✔️ TV | 24 HORAS",24H | El Chavo del 8
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266546
+#EXTINF:-1 tvg-id="" tvg-name="24H | Los Simpsons FHD" tvg-logo="/247/simpson.png" group-title="✔️ TV | 24 HORAS",24H | Los Simpsons FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266612
+#EXTINF:-1 tvg-id="" tvg-name="24H | Los Simpsons Horror HD" tvg-logo="/247/simpsonsterror.png" group-title="✔️ TV | 24 HORAS",24H | Los Simpsons Horror HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266614
+#EXTINF:-1 tvg-id="" tvg-name="24H | Paw Patrol FHD" tvg-logo="/247/pawpatrol2.png" group-title="✔️ TV | 24 HORAS",24H | Paw Patrol FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266634
+#EXTINF:-1 tvg-id="" tvg-name="24H | Pedro el Escamoso" tvg-logo="https://dl.dropboxusercontent.com/s/9l2g4haedez7y37/laguardiadelleon.png" group-title="✔️ TV | 24 HORAS",24H | Pedro el Escamoso
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266591
+#EXTINF:-1 tvg-id="" tvg-name="24H | Pepa Pig" tvg-logo="/247/twd.png" group-title="✔️ TV | 24 HORAS",24H | Pepa Pig
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266662
+#EXTINF:-1 tvg-id="a24.ar" tvg-name="ARG | A24" tvg-logo="http://213.145.87.11/Logos/4rgentina/a24.png" group-title="✔️ TV | ARGENTINA",ARG | A24
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29938
+#EXTINF:-1 tvg-id="a24.ar" tvg-name="ARG | A24 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/a24.png" group-title="✔️ TV | ARGENTINA",ARG | A24 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163683
+#EXTINF:-1 tvg-id="" tvg-name="ARG | A24 HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/a24.png" group-title="✔️ TV | ARGENTINA",ARG | A24 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282340
+#EXTINF:-1 tvg-id="america24.ar" tvg-name="ARG | America TV" tvg-logo="http://213.145.87.11/Logos/4rgentina/americatv.png" group-title="✔️ TV | ARGENTINA",ARG | America TV
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30398
+#EXTINF:-1 tvg-id="america24.ar" tvg-name="ARG | America TV FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/americatv.png" group-title="✔️ TV | ARGENTINA",ARG | America TV FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29997
+#EXTINF:-1 tvg-id="america24.ar" tvg-name="ARG | America TV HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/americatv.png" group-title="✔️ TV | ARGENTINA",ARG | America TV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77197
+#EXTINF:-1 tvg-id="c5n.ar" tvg-name="ARG | C5N FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/c5n.png" group-title="✔️ TV | ARGENTINA",ARG | C5N FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128753
+#EXTINF:-1 tvg-id="c5n.ar" tvg-name="ARG | C5N HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/c5n.png" group-title="✔️ TV | ARGENTINA",ARG | C5N HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/147245
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal 26" tvg-logo="http://213.145.87.11/Logos/4rgentina/canal26.png" group-title="✔️ TV | ARGENTINA",ARG | Canal 26
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282344
+#EXTINF:-1 tvg-id="canal26.ar" tvg-name="ARG | Canal 26 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/canal26.png" group-title="✔️ TV | ARGENTINA",ARG | Canal 26 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/147248
+#EXTINF:-1 tvg-id="canal26.ar" tvg-name="ARG | Canal 26 HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/canal26.png" group-title="✔️ TV | ARGENTINA",ARG | Canal 26 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30233
+#EXTINF:-1 tvg-id="cinear.ar" tvg-name="ARG | CineAR HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/cinear.png" group-title="✔️ TV | ARGENTINA",ARG | CineAR HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29865
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Ciudad Magazine" tvg-logo="" group-title="✔️ TV | ARGENTINA",ARG | Ciudad Magazine
+http://www.1play.cool:25461/fmromero21/2fede79dc3/384340
+#EXTINF:-1 tvg-id="cronica.ar" tvg-name="ARG | Crónica TV HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/cronica.png" group-title="✔️ TV | ARGENTINA",ARG | Crónica TV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163694
+#EXTINF:-1 tvg-id="deportv.ar" tvg-name="ARG | Deportv FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/deportv.png" group-title="✔️ TV | ARGENTINA",ARG | Deportv FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29934
+#EXTINF:-1 tvg-id="canal9.ar" tvg-name="ARG | El Nueve" tvg-logo="http://213.145.87.11/Logos/4rgentina/elnueve.png" group-title="✔️ TV | ARGENTINA",ARG | El Nueve
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29987
+#EXTINF:-1 tvg-id="canal9.ar" tvg-name="ARG | El Nueve HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/elnueve.png" group-title="✔️ TV | ARGENTINA",ARG | El Nueve HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163691
+#EXTINF:-1 tvg-id="eltrece.ar" tvg-name="ARG | El Trece" tvg-logo="http://213.145.87.11/Logos/4rgentina/eltrece.png" group-title="✔️ TV | ARGENTINA",ARG | El Trece
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29982
+#EXTINF:-1 tvg-id="eltrece.ar" tvg-name="ARG | El Trece FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/eltrece.png" group-title="✔️ TV | ARGENTINA",ARG | El Trece FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31258
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ARG | ESPN FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128754
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ARG | ESPN HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/135740
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ARG | ESPN HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/73195
+#EXTINF:-1 tvg-id="a&e.ar" tvg-name="ARG | ESPN 2" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn2.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN 2
+http://www.1play.cool:25461/fmromero21/2fede79dc3/135741
+#EXTINF:-1 tvg-id="espn1.ar" tvg-name="ARG | ESPN 2 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn2.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN 2 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163698
+#EXTINF:-1 tvg-id="espn1.ar" tvg-name="ARG | ESPN 2 HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn2.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN 2 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/61317
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ARG | ESPN 3" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn3.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN 3
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77096
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ARG | ESPN 3 HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn3.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN 3 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163699
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 4" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn4.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN 4
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282346
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 4 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn4.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN 4 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282345
+#EXTINF:-1 tvg-id="espnextra.ar" tvg-name="ARG | ESPN 4 HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn4.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN 4 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163700
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ARG | ESPN Premium" tvg-logo="http://213.145.87.11/Logos/4rgentina/espnpremium.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN Premium
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163702
+#EXTINF:-1 tvg-id="A.and.E.(Argentina).(A.and.E).ar" tvg-name="ARG | ESPN Premium FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espnpremium.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN Premium FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/78448
+#EXTINF:-1 tvg-id="foxsportspremium.ar" tvg-name="ARG | ESPN Premium HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espnpremium.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN Premium HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/61284
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="ARG | Fox Sports" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports.png" group-title="✔️ TV | ARGENTINA",ARG | Fox Sports
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128757
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="ARG | Fox Sports FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports.png" group-title="✔️ TV | ARGENTINA",ARG | Fox Sports FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163705
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="ARG | Fox Sports HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports.png" group-title="✔️ TV | ARGENTINA",ARG | Fox Sports HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30244
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="ARG | Fox Sports 2" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports2.png" group-title="✔️ TV | ARGENTINA",ARG | Fox Sports 2
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163703
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="ARG | Fox Sports 2 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports2.png" group-title="✔️ TV | ARGENTINA",ARG | Fox Sports 2 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/137713
+#EXTINF:-1 tvg-id="CO | CO - FOX Sports 2 HD" tvg-name="ARG | Fox Sports 2 HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports2.png" group-title="✔️ TV | ARGENTINA",ARG | Fox Sports 2 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/41030
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="ARG | Fox Sports 3" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports3.png" group-title="✔️ TV | ARGENTINA",ARG | Fox Sports 3
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163704
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="ARG | Fox Sports 3 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports3.png" group-title="✔️ TV | ARGENTINA",ARG | Fox Sports 3 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128759
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="ARG | Fox Sports 3 HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports3.png" group-title="✔️ TV | ARGENTINA",ARG | Fox Sports 3 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30245
+#EXTINF:-1 tvg-id="elgaragetv.ar" tvg-name="ARG | Garage TV" tvg-logo="http://213.145.87.11/Logos/4rgentina/garagetv.png" group-title="✔️ TV | ARGENTINA",ARG | Garage TV
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29983
+#EXTINF:-1 tvg-id="A.and.E.(Argentina).(A.and.E).ar" tvg-name="ARG | La Nación +" tvg-logo="http://213.145.87.11/Logos/4rgentina/lanacion.png" group-title="✔️ TV | ARGENTINA",ARG | La Nación +
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29986
+#EXTINF:-1 tvg-id="A.and.E.(Argentina).(A.and.E).ar" tvg-name="ARG | La Nación + HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/lanacion.png" group-title="✔️ TV | ARGENTINA",ARG | La Nación + HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128760
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Multivision HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/multivision.png" group-title="✔️ TV | ARGENTINA",ARG | Multivision HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163707
+#EXTINF:-1 tvg-id="A.and.E.(Argentina).(A.and.E).ar" tvg-name="ARG | Net TV HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/nettv.png" group-title="✔️ TV | ARGENTINA",ARG | Net TV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128761
+#EXTINF:-1 tvg-id="pakapaka.ar" tvg-name="ARG | Paka Paka HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/pakapaka.png" group-title="✔️ TV | ARGENTINA",ARG | Paka Paka HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29939
+#EXTINF:-1 tvg-id="" tvg-name="ARG | PX TV HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/pxsports.png" group-title="✔️ TV | ARGENTINA",ARG | PX TV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163710
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="ARG | Telefe" tvg-logo="http://213.145.87.11/Logos/4rgentina/telefe.png" group-title="✔️ TV | ARGENTINA",ARG | Telefe
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29863
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="ARG | Telefe FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/telefe.png" group-title="✔️ TV | ARGENTINA",ARG | Telefe FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163711
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="ARG | Telefe HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/telefe.png" group-title="✔️ TV | ARGENTINA",ARG | Telefe HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163708
+#EXTINF:-1 tvg-id="AR - TN" tvg-name="ARG | TN Noticias" tvg-logo="http://213.145.87.11/Logos/4rgentina/tnnoticias.png" group-title="✔️ TV | ARGENTINA",ARG | TN Noticias
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29936
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="ARG | TNT Sports Premium" tvg-logo="http://213.145.87.11/Logos/4rgentina/tntsportpremium.png" group-title="✔️ TV | ARGENTINA",ARG | TNT Sports Premium
+http://www.1play.cool:25461/fmromero21/2fede79dc3/135707
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="ARG | TNT Sports Premium FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tntsportpremium.png" group-title="✔️ TV | ARGENTINA",ARG | TNT Sports Premium FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31185
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="ARG | TNT Sports Premium HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tntsportpremium.png" group-title="✔️ TV | ARGENTINA",ARG | TNT Sports Premium HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/42440
+#EXTINF:-1 tvg-id="tvpública.ar" tvg-name="ARG | TV Publica" tvg-logo="http://213.145.87.11/Logos/4rgentina/tvpublica.png" group-title="✔️ TV | ARGENTINA",ARG | TV Publica
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163713
+#EXTINF:-1 tvg-id="tvpública.ar" tvg-name="ARG | TV Publica FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tvpublica.png" group-title="✔️ TV | ARGENTINA",ARG | TV Publica FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29864
+#EXTINF:-1 tvg-id="tvpública.ar" tvg-name="ARG | TV Publica HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tvpublica.png" group-title="✔️ TV | ARGENTINA",ARG | TV Publica HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30463
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="ARG | TyC Sports" tvg-logo="http://213.145.87.11/Logos/4rgentina/tycsports.png" group-title="✔️ TV | ARGENTINA",ARG | TyC Sports
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77098
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="ARG | TyC Sports FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tycsports.png" group-title="✔️ TV | ARGENTINA",ARG | TyC Sports FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/69033
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="ARG | TyC Sports HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tycsports.png" group-title="✔️ TV | ARGENTINA",ARG | TyC Sports HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77099
+#EXTINF:-1 tvg-id="volver.ar" tvg-name="ARG | Volver HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/volver.png" group-title="✔️ TV | ARGENTINA",ARG | Volver HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/60140
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Argentina 24/7" tvg-logo="http://213.145.87.11:90/Logos/gh.png" group-title="⭐ GRAN HERMANO ARGENTINA  ⭐",Gran Hermano Argentina 24/7
+http://www.1play.cool:25461/fmromero21/2fede79dc3/422313
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Argentina CAM 1" tvg-logo="http://213.145.87.11:90/Logos/gh.png" group-title="⭐ GRAN HERMANO ARGENTINA  ⭐",Gran Hermano Argentina CAM 1
+http://www.1play.cool:25461/fmromero21/2fede79dc3/428182
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Argentina CAM 2" tvg-logo="http://213.145.87.11:90/Logos/gh.png" group-title="⭐ GRAN HERMANO ARGENTINA  ⭐",Gran Hermano Argentina CAM 2
+http://www.1play.cool:25461/fmromero21/2fede79dc3/428183
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Argentina CAM 3" tvg-logo="http://213.145.87.11:90/Logos/gh.png" group-title="⭐ GRAN HERMANO ARGENTINA  ⭐",Gran Hermano Argentina CAM 3
+http://www.1play.cool:25461/fmromero21/2fede79dc3/428184
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Argentina MultiCAM" tvg-logo="http://213.145.87.11:90/Logos/gh.png" group-title="⭐ GRAN HERMANO ARGENTINA  ⭐",Gran Hermano Argentina MultiCAM
+http://www.1play.cool:25461/fmromero21/2fede79dc3/428185
+#EXTINF:-1 tvg-id="MX - A&E Mundo" tvg-name="2MB | A&E (MX)" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_ae.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | A&E (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30656
+#EXTINF:-1 tvg-id="I430.88305.schedulesdirect.org" tvg-name="2MB | A3cine (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjIxOTJf/mx_arts.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | A3cine (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134284
+#EXTINF:-1 tvg-id="MX - AMC HD" tvg-name="2MB | AMC (MX)" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_amc.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | AMC (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45928
+#EXTINF:-1 tvg-id="MX - Animal Planet" tvg-name="2MB | Animal Planet (MX)" tvg-logo="http://209.126.82.213/logos/mx_animal_planet.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Animal Planet (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/59920
+#EXTINF:-1 tvg-id="I58.90898.schedulesdirect.org" tvg-name="2MB | Atreseries (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Nzlf/mx_a3series.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Atreseries (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134285
+#EXTINF:-1 tvg-id="MX - AXN" tvg-name="2MB | AXN (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1ODRf/mx_axn.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | AXN (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30659
+#EXTINF:-1 tvg-id="I80.34863.schedulesdirect.org" tvg-name="2MB | AYM (MX)" tvg-logo="http://209.126.82.213/logos/mx_aym.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | AYM (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134286
+#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-name="2MB | Azteca 7 (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MjNf/mx_azteca_7.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Azteca 7 (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134288
+#EXTINF:-1 tvg-id="CO - Antena 3" tvg-name="2MB | Azteca Deportes (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1ODJf/mx_antena_3.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Azteca Deportes (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30657
+#EXTINF:-1 tvg-id="XHDF.Ciudad.de.México.(Azteca.Uno).DF.(AZUNO).mx" tvg-name="2MB | Azteca Uno (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MjRf/mx_azteca_uno.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Azteca Uno (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134289
+#EXTINF:-1 tvg-id="CL - BabyTV" tvg-name="2MB | Baby TV (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1ODZf/mx_baby_tv.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Baby TV (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/59921
+#EXTINF:-1 tvg-id="MX - Bandamax" tvg-name="2MB | Bandamax (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MjVf/mx_bandamax.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Bandamax (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134332
+#EXTINF:-1 tvg-id="LATINO_Networks_and_Sports_EPGCanal5.mx" tvg-name="2MB | Canal 5 (MX)" tvg-logo="http://209.126.82.213/logos/mx_canal_5.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Canal 5 (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134290
+#EXTINF:-1 tvg-id="MX - Cartoon Network" tvg-name="2MB | Cartoon Network (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTBf/mx_cartoon_network.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Cartoon Network (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30665
+#EXTINF:-1 tvg-id="MX - Boomerang" tvg-name="2MB | Cartoonito (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE0ODRf/mx_cartoonito.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Cartoonito (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30660
+#EXTINF:-1 tvg-id="CO - Cinelatino" tvg-name="2MB | Cine Latino (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjIyMTBf/mx_cine_latino.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Cine Latino (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/67196
+#EXTINF:-1 tvg-id="MX - Cinecanal HD" tvg-name="2MB | Cinecanal (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTJf/mx_cinecanal.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Cinecanal (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30661
+#EXTINF:-1 tvg-id="MX - Cinemax" tvg-name="2MB | Cinemax MX)" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_cinemax.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Cinemax MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30663
+#EXTINF:-1 tvg-id="I152.84479.schedulesdirect.org" tvg-name="2MB | Claro Sports (MX)" tvg-logo="http://209.126.82.213/LogosP/Deportes/dep_clarosports.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Claro Sports (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134291
+#EXTINF:-1 tvg-id="PE - CNN en Español" tvg-name="2MB | CNN Espanol (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MzRf/mx_cnn_esp.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | CNN Espanol (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134312
+#EXTINF:-1 tvg-id="PE - CNN (EE.UU.)" tvg-name="2MB | CNN Internacional (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTRf/mx_cnn.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | CNN Internacional (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134292
+#EXTINF:-1 tvg-id="MX - Comedy Central" tvg-name="2MB | Comedy Central (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MzVf/mx_comedy_central.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Comedy Central (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30664
+#EXTINF:-1 tvg-id="MX - De Película HD" tvg-name="2MB | De Pelicula (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MzZf/mx_depelicula.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | De Pelicula (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45938
+#EXTINF:-1 tvg-id="CO - DHE" tvg-name="2MB | DHE (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NjRf/mx_dhe.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | DHE (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45930
+#EXTINF:-1 tvg-id="MX - Discovery Channel" tvg-name="2MB | Discovery Channel (MX)" tvg-logo="http://209.126.82.213/logos/mx_discovery.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Discovery Channel (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30667
+#EXTINF:-1 tvg-id="MX - Discovery Home & Health" tvg-name="2MB | Discovery Home & Healt (MX)" tvg-logo="http://209.126.82.213/logos/mx_discovery_hh.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Discovery Home & Healt (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30666
+#EXTINF:-1 tvg-id="MX - Discovery Kids" tvg-name="2MB | Discovery Kids (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Mzlf/mx_discovery_kids.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Discovery Kids (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/67190
+#EXTINF:-1 tvg-id="MX - Discovery HD Theater" tvg-name="2MB | Discovery Theather (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTdf/mx_discovery_theater.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Discovery Theather (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/67191
+#EXTINF:-1 tvg-id="CO - Discovery Turbo" tvg-name="2MB | Discovery Turbo (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OThf/mx_discovery_turbo.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Discovery Turbo (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31118
+#EXTINF:-1 tvg-id="MX - Discovery World HD" tvg-name="2MB | Discovery World (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTlf/mx_discovery_world.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Discovery World (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/67192
+#EXTINF:-1 tvg-id="MX - Disney Channel" tvg-name="2MB | Disney Channel (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MDBf/mx_disney.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Disney Channel (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/59922
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.(Mexico).(E!).mx" tvg-name="2MB | E! Entertaiment (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MDVf/mx_e.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | E! Entertaiment (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134293
+#EXTINF:-1 tvg-id="CO - elgourmet" tvg-name="2MB | Elgourmet (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MDZf/mx_el_gourmet.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Elgourmet (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134298
+#EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-name="2MB | ESPN (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDBf/mx_espn.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | ESPN (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31122
+#EXTINF:-1 tvg-id="ESPN.2.Latin.North.(Mexico).(ESPN2M).mx" tvg-name="2MB | ESPN 2 (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDFf/mx_espn_2.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | ESPN 2 (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31123
+#EXTINF:-1 tvg-id="ESPN.3.North.(Latin.America).(ESPN3).mx" tvg-name="2MB | ESPN 3 (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MDhf/mx_espn_3.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | ESPN 3 (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31124
+#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="2MB | ESPN 4 (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NjVf/mx_espn_extra.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | ESPN 4 (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134294
+#EXTINF:-1 tvg-id="Exa.TV.(EXATV).mx" tvg-name="2MB | Estrellas (MX)" tvg-logo="" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Estrellas (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134295
+#EXTINF:-1 tvg-id="CL - Europa Europa" tvg-name="2MB | Europa Europa (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MDlf/mx_europa.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Europa Europa (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45931
+#EXTINF:-1 tvg-id="MX - Film&Arts" tvg-name="2MB | Film & Arts (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MTJf/mx_film_arts.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Film & Arts (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30658
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="2MB | Food Network (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MTNf/mx_food_network.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Food Network (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/61123
+#EXTINF:-1 tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2).mx" tvg-name="2MB | Fox Sports 2 (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MTdf/mx_fox_sports_2.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Fox Sports 2 (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31131
+#EXTINF:-1 tvg-id="Fox.Sports.3.(Cono.Norte).(FOXSP3).mx" tvg-name="2MB | Fox Sports 3 (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MThf/mx_fox_sports_3.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Fox Sports 3 (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31132
+#EXTINF:-1 tvg-id="MX - FX" tvg-name="2MB | FX (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2Njdf/mx_fx.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | FX (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31135
+#EXTINF:-1 tvg-id="MX - Golden Edge" tvg-name="2MB | Golden Edge (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDRf/mx_golden_edge.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Golden Edge (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45937
+#EXTINF:-1 tvg-id="CO - Golden Premier HD" tvg-name="2MB | Golden Premier (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjIyNDdf/mx_golden_premier.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Golden Premier (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45932
+#EXTINF:-1 tvg-id="MX - HBO HD" tvg-name="2MB | HBO (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MjJf/mx_hbo.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | HBO (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31138
+#EXTINF:-1 tvg-id="MX - HBO 2" tvg-name="2MB | HBO 2 (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MjVf/mx_hbo2.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | HBO 2 (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31140
+#EXTINF:-1 tvg-id="MX - HBO Family" tvg-name="2MB | HBO Family (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDZf/mx_hbo_family.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | HBO Family (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31139
+#EXTINF:-1 tvg-id="MX - Max" tvg-name="2MB | HBO Mundi (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDdf/mx_hbo_mundi.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | HBO Mundi (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134299
+#EXTINF:-1 tvg-id="MX - HBO Plus México" tvg-name="2MB | HBO Plus (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MjNf/mx_hbo_plus.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | HBO Plus (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45929
+#EXTINF:-1 tvg-id="CO - HBO Signature HD" tvg-name="2MB | HBO Signature (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MjRf/mx_hbo_signature.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | HBO Signature (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45933
+#EXTINF:-1 tvg-id="MX - Max Prime México" tvg-name="2MB | HBO Xtreme (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDlf/mx_hbo_xtreme.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | HBO Xtreme (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134300
+#EXTINF:-1 tvg-id="MX - History HD" tvg-name="2MB | History (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE0ODdf/mx_history.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | History (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134301
+#EXTINF:-1 tvg-id="CO - H2" tvg-name="2MB | History 2 (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE0ODhf/mx_history_2.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | History 2 (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31137
+#EXTINF:-1 tvg-id="CL - HTV" tvg-name="2MB | HTV (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NTFf/mx_htv.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | HTV (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134303
+#EXTINF:-1 tvg-id="MX - Investigation Discovery" tvg-name="2MB | Investigation Discovery (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Mzhf/mx_discovery_id.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Investigation Discovery (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/39739
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="2MB | Kanal Drama (MX)" tvg-logo="" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Kanal Drama (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134304
+#EXTINF:-1 tvg-id="MX - Las Estrellas" tvg-name="2MB | Las Estrellas (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NTNf/mx_las_estrellas.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Las Estrellas (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31120
+#EXTINF:-1 tvg-id="CO - Lifetime" tvg-name="2MB | Lifetime (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NTRf/mx_lifetime.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Lifetime (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134305
+#EXTINF:-1 tvg-id="CO - Multipremier" tvg-name="2MB | Multi Premier (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjIzMTRf/mx_multipremier.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Multi Premier (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134310
+#EXTINF:-1 tvg-id="MX - National Geographic" tvg-name="2MB | National Geographic (MX)" tvg-logo="http://209.126.82.213/LogosP/Cultura/cult_national_Geographic.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | National Geographic (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/67194
+#EXTINF:-1 tvg-id="MX - Canal Once" tvg-name="2MB | Once (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Njhf/mx_once.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Once (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134317
+#EXTINF:-1 tvg-id="Canal.Once.XEIPN.(CANL11).mx" tvg-name="2MB | Once Niñas y Niños (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Njlf/mx_once_ninas.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Once Niñas y Niños (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134318
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="2MB | Pasiones (MX)" tvg-logo="" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Pasiones (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134322
+#EXTINF:-1 tvg-id="MX - Sony HD" tvg-name="2MB | Sony Channel (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NzBf/mx_sony.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Sony Channel (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45936
+#EXTINF:-1 tvg-id="MX - Space" tvg-name="2MB | Space (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NDFf/mx_space.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Space (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31141
+#EXTINF:-1 tvg-id="MX - FOX" tvg-name="2MB | Star Channel (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NzBf/mx_star_channel.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Star Channel (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31125
+#EXTINF:-1 tvg-id="MX - Studio Universal" tvg-name="2MB | Studio Universal (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NDJf/mx_studio_universal.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Studio Universal (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134324
+#EXTINF:-1 tvg-id="MX - TBS" tvg-name="2MB | TCM (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NDRf/mx_tbs.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | TCM (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134325
+#EXTINF:-1 tvg-id="CO - TLC" tvg-name="2MB | TLC (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NzJf/mx_tlc.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | TLC (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134327
+#EXTINF:-1 tvg-id="" tvg-name="2MB | TNT (MX)" tvg-logo="" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | TNT (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/172624
+#EXTINF:-1 tvg-id="CO - TNT Series" tvg-name="2MB | TNT Series (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NTBf/mx_tnt_series.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | TNT Series (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31144
+#EXTINF:-1 tvg-id="I464.75176.zap2it.com" tvg-name="2MB | TUDN (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NTNf/mx_tudn.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | TUDN (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134311
+#EXTINF:-1 tvg-id="MX - Az Corazón" tvg-name="2MB | TVC Deportes (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NTVf/mx_tv_d.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | TVC Deportes (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134328
+#EXTINF:-1 tvg-id="MX - Universal Channel" tvg-name="2MB | Universal Channel (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NTdf/mx_universal_tv.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Universal Channel (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45935
+#EXTINF:-1 tvg-id="Teveunam.(UNAM).mx" tvg-name="2MB | Universal Cinema (MX)" tvg-logo="" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Universal Cinema (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134329
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="2MB | Universal Comedy (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MTNf/mx_universal_comedy.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Universal Comedy (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134423
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="2MB | Universal Crime (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MTRf/mx_universal_crime.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Universal Crime (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134424
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="2MB | Universal Premiere Este (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MTVf/mx_universal_premiere.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Universal Premiere Este (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134425
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="2MB | Universal Reality (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MTZf/mx_universal_reality.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Universal Reality (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134427
+#EXTINF:-1 tvg-id="MX - Warner Channel" tvg-name="2MB | Warner Channel (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Nzdf/mx_warner.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Warner Channel (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31145
+#EXTINF:-1 tvg-id="CL - 13C" tvg-name="CL | 13c HD" tvg-logo="http://209.126.82.213/CL/13c_cl.png" group-title="✔️ TV | CHILE",CL | 13c HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30378
+#EXTINF:-1 tvg-id="CL - 24 Horas" tvg-name="CL | 24 Horas FHD  (°-°)" tvg-logo="http://209.126.82.213/CL/24h_cl.png" group-title="✔️ TV | CHILE",CL | 24 Horas FHD  (°-°)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/73662
+#EXTINF:-1 tvg-id="CL - 24 Horas" tvg-name="CL | 24 Horas HD (°-°)" tvg-logo="http://209.126.82.213/CL/24h_cl.png" group-title="✔️ TV | CHILE",CL | 24 Horas HD (°-°)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/147228
+#EXTINF:-1 tvg-id="CL - Canal 13" tvg-name="CL | Canal 13 FHD (°-°)" tvg-logo="http://209.126.82.213/CL/canal13_cl.png" group-title="✔️ TV | CHILE",CL | Canal 13 FHD (°-°)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/147229
+#EXTINF:-1 tvg-id="CL - Canal 13" tvg-name="CL | Canal 13 HD (°-°)" tvg-logo="http://209.126.82.213/CL/canal13_cl.png" group-title="✔️ TV | CHILE",CL | Canal 13 HD (°-°)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156514
+#EXTINF:-1 tvg-id="CL - CDO Básico" tvg-name="CL | CDO Basico" tvg-logo="http://209.126.82.213/CL/cdobasico_cl.png" group-title="✔️ TV | CHILE",CL | CDO Basico
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156515
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDO Basico 2" tvg-logo="" group-title="✔️ TV | CHILE",CL | CDO Basico 2
+http://www.1play.cool:25461/fmromero21/2fede79dc3/174644
+#EXTINF:-1 tvg-id="CL - CDO Premium" tvg-name="CL | CDO Premium HD" tvg-logo="http://209.126.82.213/CL/cdopremium_cl.png" group-title="✔️ TV | CHILE",CL | CDO Premium HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/61858
+#EXTINF:-1 tvg-id="CL - Chilevisión" tvg-name="CL | Chilevision" tvg-logo="http://209.126.82.213/CL/chilevision_cl.png" group-title="✔️ TV | CHILE",CL | Chilevision
+http://www.1play.cool:25461/fmromero21/2fede79dc3/42439
+#EXTINF:-1 tvg-id="CL - Chilevisión" tvg-name="CL | Chilevision FHD (°-°)" tvg-logo="http://209.126.82.213/CL/chilevision_cl.png" group-title="✔️ TV | CHILE",CL | Chilevision FHD (°-°)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30520
+#EXTINF:-1 tvg-id="CL - Chilevisión" tvg-name="CL | Chilevision HD (°-°)" tvg-logo="http://209.126.82.213/CL/chilevision_cl.png" group-title="✔️ TV | CHILE",CL | Chilevision HD (°-°)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156517
+#EXTINF:-1 tvg-id="CL - CNN Chile" tvg-name="CL | CNN Chile FHD" tvg-logo="http://209.126.82.213/CL/cnnchile_cl.png" group-title="✔️ TV | CHILE",CL | CNN Chile FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/61879
+#EXTINF:-1 tvg-id="CL - CNN Chile" tvg-name="CL | CNN Chile HD" tvg-logo="http://209.126.82.213/CL/cnnchile_cl.png" group-title="✔️ TV | CHILE",CL | CNN Chile HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/32749
+#EXTINF:-1 tvg-id="" tvg-name="CL | ESPN HD" tvg-logo="http://209.126.82.213/CL/espn_cl.png" group-title="✔️ TV | CHILE",CL | ESPN HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/170409
+#EXTINF:-1 tvg-id="CL | CL - ESPN 2" tvg-name="CL | ESPN 2 HD" tvg-logo="http://209.126.82.213/CL/espn2_cl.png" group-title="✔️ TV | CHILE",CL | ESPN 2 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156525
+#EXTINF:-1 tvg-id="" tvg-name="CL | ESPN 3 HD" tvg-logo="http://209.126.82.213/CL/espn3_cl.png" group-title="✔️ TV | CHILE",CL | ESPN 3 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/172622
+#EXTINF:-1 tvg-id="" tvg-name="CL | 13 Festival" tvg-logo="" group-title="✔️ TV | CHILE",CL | 13 Festival
+http://www.1play.cool:25461/fmromero21/2fede79dc3/271826
+#EXTINF:-1 tvg-id="" tvg-name="CL | ESPN 5 HD" tvg-logo="" group-title="✔️ TV | CHILE",CL | ESPN 5 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/271825
+#EXTINF:-1 tvg-id="" tvg-name="CL | ESPN 6 HD" tvg-logo="" group-title="✔️ TV | CHILE",CL | ESPN 6 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/271824
+#EXTINF:-1 tvg-id="etctv.cl" tvg-name="CL | ETC" tvg-logo="" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | ETC
+http://www.1play.cool:25461/fmromero21/2fede79dc3/161353
+#EXTINF:-1 tvg-id="CL - ETC TV" tvg-name="CL | ETC TV FHD" tvg-logo="http://209.126.82.213/CL/etc_cl.png" group-title="✔️ TV | CHILE",CL | ETC TV FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30369
+#EXTINF:-1 tvg-id="CL - ETC TV" tvg-name="CL | ETC TV HD" tvg-logo="http://209.126.82.213/CL/etc_cl.png" group-title="✔️ TV | CHILE",CL | ETC TV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/73664
+#EXTINF:-1 tvg-id="CL | CL - FOX Sports 2" tvg-name="CL | Fox Sports 2 HD" tvg-logo="http://209.126.82.213/Deportes/foxsports2_ar.png" group-title="✔️ TV | CHILE",CL | Fox Sports 2 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/61881
+#EXTINF:-1 tvg-id="CL - La Red" tvg-name="CL | La Red FHD (°-°)" tvg-logo="http://209.126.82.213/CL/lared_cl.png" group-title="✔️ TV | CHILE",CL | La Red FHD (°-°)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30367
+#EXTINF:-1 tvg-id="CL - La Red" tvg-name="CL | La Red HD (°-°)" tvg-logo="http://209.126.82.213/CL/lared_cl.png" group-title="✔️ TV | CHILE",CL | La Red HD (°-°)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/147292
+#EXTINF:-1 tvg-id="" tvg-name="CL | Mega 2" tvg-logo="" group-title="✔️ TV | CHILE",CL | Mega 2
+http://www.1play.cool:25461/fmromero21/2fede79dc3/210295
+#EXTINF:-1 tvg-id="CL - Mega" tvg-name="CL | Mega FHD" tvg-logo="http://209.126.82.213/CL/mega_cl.png" group-title="✔️ TV | CHILE",CL | Mega FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/61854
+#EXTINF:-1 tvg-id="CL - Mega" tvg-name="CL | Mega Noticias" tvg-logo="" group-title="✔️ TV | CHILE",CL | Mega Noticias
+http://www.1play.cool:25461/fmromero21/2fede79dc3/147296
+#EXTINF:-1 tvg-id="CL - Mega" tvg-name="CL | Mega HD" tvg-logo="http://209.126.82.213/CL/mega_cl.png" group-title="✔️ TV | CHILE",CL | Mega HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30366
+#EXTINF:-1 tvg-id="CL - REC TV" tvg-name="CL | Rec TV FHD" tvg-logo="http://209.126.82.213/CL/rectv_cl.png" group-title="✔️ TV | CHILE",CL | Rec TV FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/73666
+#EXTINF:-1 tvg-id="CL - Teletrak" tvg-name="CL | Teletrak HD" tvg-logo="http://209.126.82.213/CL/teletrak_cl.png" group-title="✔️ TV | CHILE",CL | Teletrak HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/61871
+#EXTINF:-1 tvg-id="LATINO_Networks_and_Sports_EPGTNTSports2.cl" tvg-name="CL | TNT Sports HD" tvg-logo="http://209.126.82.213/CL/tntsports2_cl.png" group-title="✔️ TV | CHILE",CL | TNT Sports HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/63150
+#EXTINF:-1 tvg-id="LATINO_Networks_and_Sports_EPGTNTSports3.cl" tvg-name="CL | TNT Sports Premium FHD" tvg-logo="http://209.126.82.213/CL/tntsports3_cl.png" group-title="✔️ TV | CHILE",CL | TNT Sports Premium FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/147317
+#EXTINF:-1 tvg-id="" tvg-name="CL | TNT Sports Premium HD" tvg-logo="http://209.126.82.213/CL/tntsports_cl.png" group-title="✔️ TV | CHILE",CL | TNT Sports Premium HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/171539
+#EXTINF:-1 tvg-id="" tvg-name="CL | TNT Sports Premium HD (SOLO EVENTOS)" tvg-logo="" group-title="✔️ TV | CHILE",CL | TNT Sports Premium HD (SOLO EVENTOS)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/209565
+#EXTINF:-1 tvg-id="LATINO_Networks_and_Sports_EPGTVChile.cl" tvg-name="CL | TV Chile HD" tvg-logo="http://209.126.82.213/CL/tvchile_cl.png" group-title="✔️ TV | CHILE",CL | TV Chile HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/75388
+#EXTINF:-1 tvg-id="" tvg-name="CL | TV+ FHD" tvg-logo="" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | TV+ FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/161362
+#EXTINF:-1 tvg-id="TV+.bg" tvg-name="CL | TV+ FHD" tvg-logo="http://209.126.82.213/CL/tvplus_cl.png" group-title="✔️ TV | CHILE",CL | TV+ FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/73667
+#EXTINF:-1 tvg-id="CL - TVN" tvg-name="CL | TVN" tvg-logo="http://209.126.82.213/CL/tvn_cl.png" group-title="✔️ TV | CHILE",CL | TVN
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156564
+#EXTINF:-1 tvg-id="" tvg-name="CL | TVN FHD" tvg-logo="" group-title="✔️ TV | CHILE",CL | TVN FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/209566
+#EXTINF:-1 tvg-id="CL - TVN" tvg-name="CL | TVN HD" tvg-logo="http://209.126.82.213/CL/tvn_cl.png" group-title="✔️ TV | CHILE",CL | TVN HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30302
+#EXTINF:-1 tvg-id="CL - Vía X" tvg-name="CL | Via X" tvg-logo="http://209.126.82.213/CL/viax_cl.png" group-title="✔️ TV | CHILE",CL | Via X
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156904
+#EXTINF:-1 tvg-id="CL - Zona Latina" tvg-name="CL | Zona Latina" tvg-logo="http://209.126.82.213/CL/zonalatina_cl.png" group-title="✔️ TV | CHILE",CL | Zona Latina
+http://www.1play.cool:25461/fmromero21/2fede79dc3/61569
+#EXTINF:-1 tvg-id="" tvg-name="CL | Chilevision Noticias" tvg-logo="" group-title="✔️ TV | CHILE",CL | Chilevision Noticias
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282946
+#EXTINF:-1 tvg-id="" tvg-name="CL | ESPN 4 HD" tvg-logo="" group-title="✔️ TV | CHILE",CL | ESPN 4 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282947
+#EXTINF:-1 tvg-id="" tvg-name="CL | ESPN Premium HD" tvg-logo="" group-title="✔️ TV | CHILE",CL | ESPN Premium HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282948
+#EXTINF:-1 tvg-id="" tvg-name="CL | Mega Tiempo" tvg-logo="" group-title="✔️ TV | CHILE",CL | Mega Tiempo
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282949
+#EXTINF:-1 tvg-id="" tvg-name="CL | TV+ HD" tvg-logo="" group-title="✔️ TV | CHILE",CL | TV+ HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282950
+#EXTINF:-1 tvg-id="a&e.cl" tvg-name="CL | A&E" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_ae.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | A&E
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133058
+#EXTINF:-1 tvg-id="a&e.cl" tvg-name="CL | A&E FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_ae.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | A&E FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133035
+#EXTINF:-1 tvg-id="SPAIN_Networks_and_Sports_EPGAtreseries.es" tvg-name="CL | A3 Series FHD" tvg-logo="http://209.126.82.213/LogosP/Entretenimiento/ent_a3series.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | A3 Series FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133036
+#EXTINF:-1 tvg-id="amc.cl" tvg-name="CL | AMC FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_amc.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | AMC FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133037
+#EXTINF:-1 tvg-id="animalplanet.cl" tvg-name="CL | Animal Planet" tvg-logo="http://209.126.82.213/logos/mx_animal_planet.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Animal Planet
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133057
+#EXTINF:-1 tvg-id="CL - Animal Planet HD" tvg-name="CL | Animal Planet FHD" tvg-logo="http://209.126.82.213/logos/mx_animal_planet.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Animal Planet FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133038
+#EXTINF:-1 tvg-id="axn.cl" tvg-name="CL | AXN FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_axn.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | AXN FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133040
+#EXTINF:-1 tvg-id="cartoonnetwork.cl" tvg-name="CL | Cartoon Network FHD" tvg-logo="http://209.126.82.213/LogosP/Infantiles/inf_cartoon_network.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Cartoon Network FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133041
+#EXTINF:-1 tvg-id="cinecanal.cl" tvg-name="CL | Cinecanal" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_cinecanal.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Cinecanal
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133059
+#EXTINF:-1 tvg-id="cinecanal.cl" tvg-name="CL | Cinecanal FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_cinecanal.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Cinecanal FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133042
+#EXTINF:-1 tvg-id="cinemax.cl" tvg-name="CL | Cinemax FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_cinemax.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Cinemax FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133043
+#EXTINF:-1 tvg-id="comedycentral.cl" tvg-name="CL | Comedy Central HD" tvg-logo="http://209.126.82.213/LogosP/Entretenimiento/ent_comedy_central.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Comedy Central HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133045
+#EXTINF:-1 tvg-id="dhe.cl" tvg-name="CL | DHE FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_dhe.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | DHE FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133047
+#EXTINF:-1 tvg-id="discoverychannel.cl" tvg-name="CL | Discovery Channel" tvg-logo="http://209.126.82.213/logos/mx_discovery.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Discovery Channel
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133061
+#EXTINF:-1 tvg-id="discoveryhome&health.ar" tvg-name="CL | Discovery H&H FHD" tvg-logo="http://209.126.82.213/logos/mx_discovery_hh.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Discovery H&H FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133049
+#EXTINF:-1 tvg-id="CL - Discovery Kids HD" tvg-name="CL | Discovery Kids FHD" tvg-logo="http://209.126.82.213/LogosP/Infantiles/inf_discovery_kids.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Discovery Kids FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133051
+#EXTINF:-1 tvg-id="discoveryworld.cl" tvg-name="CL | Discovery World FHD" tvg-logo="http://209.126.82.213/LogosP/Cultura/cult_Discovery_World.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Discovery World FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133054
+#EXTINF:-1 tvg-id="CL - Discovery Channel" tvg-name="CL | Disney Channel FHD" tvg-logo="http://209.126.82.213/LogosP/Infantiles/inf_disney.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Disney Channel FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133055
+#EXTINF:-1 tvg-id="disneyjunior.cl" tvg-name="CL | Disney Junior" tvg-logo="" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Disney Junior
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133044
+#EXTINF:-1 tvg-id="e!.cl" tvg-name="CL | E! Entertainment FHD" tvg-logo="http://209.126.82.213/LogosP/Entretenimiento/ent_eentertaiment.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | E! Entertainment FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133056
+#EXTINF:-1 tvg-id="fx.cl" tvg-name="CL | FX FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_fx.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | FX FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133060
+#EXTINF:-1 tvg-id="history2.cl" tvg-name="CL | H2 FHD" tvg-logo="http://209.126.82.213/LogosP/Cultura/cult_History2.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | H2 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133063
+#EXTINF:-1 tvg-id="hbo2.cl" tvg-name="CL | HBO 2 FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo2.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | HBO 2 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133064
+#EXTINF:-1 tvg-id="hbofamily.cl" tvg-name="CL | HBO Family FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo_family.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | HBO Family FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133065
+#EXTINF:-1 tvg-id="hbo.cl" tvg-name="CL | HBO FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | HBO FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133066
+#EXTINF:-1 tvg-id="hbopop.cl" tvg-name="CL | HBO POP FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo_pop.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | HBO POP FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133068
+#EXTINF:-1 tvg-id="hboxtreme.cl" tvg-name="CL | HBO Xtreme FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo_xtreme.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | HBO Xtreme FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133069
+#EXTINF:-1 tvg-id="history.cl" tvg-name="CL | History Channel FHD" tvg-logo="http://209.126.82.213/LogosP/Cultura/cult_history.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | History Channel FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133070
+#EXTINF:-1 tvg-id="investigationdiscovery.cl" tvg-name="CL | Investigation Discovery FHD" tvg-logo="http://209.126.82.213/LogosP/Cultura/cult_investigtion_discovery.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Investigation Discovery FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133050
+#EXTINF:-1 tvg-id="" tvg-name="CL | Love Nature FHD" tvg-logo="" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Love Nature FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133074
+#EXTINF:-1 tvg-id="nationalgeographic.cl" tvg-name="CL | National Geographic FHD" tvg-logo="http://209.126.82.213/LogosP/Cultura/cult_national_Geographic.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | National Geographic FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133077
+#EXTINF:-1 tvg-id="nick.cl" tvg-name="CL | Nickelodeon FHD" tvg-logo="http://209.126.82.213/LogosP/Infantiles/inf_nick.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Nickelodeon FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133078
+#EXTINF:-1 tvg-id="sony.cl" tvg-name="CL | Sony FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_sony.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Sony FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133080
+#EXTINF:-1 tvg-id="space.cl" tvg-name="CL | Space FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_space.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Space FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133081
+#EXTINF:-1 tvg-id="starchannel.cl" tvg-name="CL | Star Channel FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_star_channel.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Star Channel FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133082
+#EXTINF:-1 tvg-id="studiouniversal.cl" tvg-name="CL | Studio Universal FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_studio_universal.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Studio Universal FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133083
+#EXTINF:-1 tvg-id="tbs.cl" tvg-name="CL | TBS Very Funny FHD" tvg-logo="http://tv-cool.com:57846/resize.php?max=42&url=http://209.126.82.213/LogosP/Cine/cine_tbs.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | TBS Very Funny FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133085
+#EXTINF:-1 tvg-id="tnt.cl" tvg-name="CL | TNT FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_tnt.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | TNT FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133087
+#EXTINF:-1 tvg-id="tntseries.cl" tvg-name="CL | TNT Series FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_tnt_series.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | TNT Series FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133088
+#EXTINF:-1 tvg-id="universaltv.cl" tvg-name="CL | Universal Channel FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_universal.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Universal Channel FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133090
+#EXTINF:-1 tvg-id="CL - Warner Channel" tvg-name="CL | Warner Channel FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_warner.png" group-title="✔️ TV | CANALES LATINOS 60 FPS",CL | Warner Channel FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133091
+#EXTINF:-1 tvg-id="" tvg-name="CL | Amor AM & FM Stereo" tvg-logo="" group-title="✔️ TV | RADIO STATIONS",CL | Amor AM & FM Stereo
+http://www.1play.cool:25461/fmromero21/2fede79dc3/194058
+#EXTINF:-1 tvg-id="" tvg-name="CL | Romántica 104.1 FM" tvg-logo="" group-title="✔️ TV | RADIO STATIONS",CL | Romántica 104.1 FM
+http://www.1play.cool:25461/fmromero21/2fede79dc3/194057
+#EXTINF:-1 tvg-id="" tvg-name="2MB | TNT Novela (MX)" tvg-logo="" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | TNT Novela (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30549
+#EXTINF:-1 tvg-id="" tvg-name="40 y 20" tvg-logo="https://images.vix.com/prd/channel/6487380bc436df2859e5d2a2/40cca8d54d603fedefa2eaa35a229563" group-title="✔️ TV | 24 HORAS VIX NOVELAS",40 y 20
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165352
+#EXTINF:-1 tvg-id="" tvg-name="Amor Real" tvg-logo="https://images.vix.com/prd/channel/63725ab167207e64e143e70f/ad4d5ad2dd52d6519d673d3a939d79b7" group-title="✔️ TV | 24 HORAS VIX NOVELAS",Amor Real
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165354
+#EXTINF:-1 tvg-id="" tvg-name="Camino al Cielo" tvg-logo="https://images.vix.com/prd/channel/6234966459579b8050a2096c/d39fda882d6e25841d096e4662d21404" group-title="✔️ TV | 24 HORAS VIX NOVELAS",Camino al Cielo
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165358
+#EXTINF:-1 tvg-id="" tvg-name="Cine de Oro" tvg-logo="" group-title="✔️ TV | 24 HORAS VIX NOVELAS",Cine de Oro
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165360
+#EXTINF:-1 tvg-id="" tvg-name="Cine Estrella TV" tvg-logo="" group-title="✔️ TV | 24 HORAS VIX NOVELAS",Cine Estrella TV
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165384
+#EXTINF:-1 tvg-id="" tvg-name="Cine Retro" tvg-logo="https://images.vix.com/prd/channel/626f670e87ec596207ee66e6/c45f4431d1a7233604ffd0127439735d" group-title="✔️ TV | 24 HORAS VIX NOVELAS",Cine Retro
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165374
+#EXTINF:-1 tvg-id="" tvg-name="Como Dice el Dicho" tvg-logo="" group-title="✔️ TV | 24 HORAS VIX NOVELAS",Como Dice el Dicho
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165363
+#EXTINF:-1 tvg-id="" tvg-name="Cine Vault Clasicos" tvg-logo="https://images.vix.com/prd/channel/61f970bb602cef693b729fbc/09a46d15972a1b45ad51b1faf76cf21f" group-title="✔️ TV | 24 HORAS VIX NOVELAS",Cine Vault Clasicos
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165406
+#EXTINF:-1 tvg-id="" tvg-name="La Rosa de Guadalupe" tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69" group-title="✔️ TV | 24 HORAS VIX NOVELAS",La Rosa de Guadalupe
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165397
+#EXTINF:-1 tvg-id="" tvg-name="Latino Cinema" tvg-logo="" group-title="✔️ TV | 24 HORAS VIX NOVELAS",Latino Cinema
+http://www.1play.cool:25461/fmromero21/2fede79dc3/176510
+#EXTINF:-1 tvg-id="" tvg-name="Mi Corazon es tuyo" tvg-logo="" group-title="✔️ TV | 24 HORAS VIX NOVELAS",Mi Corazon es tuyo
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165407
+#EXTINF:-1 tvg-id="" tvg-name="Nosotros los Guapos" tvg-logo="" group-title="✔️ TV | 24 HORAS VIX NOVELAS",Nosotros los Guapos
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165386
+#EXTINF:-1 tvg-id="" tvg-name="Novelas Familia" tvg-logo="https://images.vix.com/prd/channel/63720ca37f01814a79eb8505/a7502e1aa511219c23718e1830d0460f" group-title="✔️ TV | 24 HORAS VIX NOVELAS",Novelas Familia
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165351
+#EXTINF:-1 tvg-id="" tvg-name="Novelas Romance" tvg-logo="https://images.vix.com/prd/channel/620b20270ca5e2a32d8c85ea/5acebdc9d97153430262775c741f4c4b" group-title="✔️ TV | 24 HORAS VIX NOVELAS",Novelas Romance
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165368
+#EXTINF:-1 tvg-id="" tvg-name="Novelas Pasiones" tvg-logo="" group-title="✔️ TV | 24 HORAS VIX NOVELAS",Novelas Pasiones
+http://www.1play.cool:25461/fmromero21/2fede79dc3/177155
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore" tvg-logo="" group-title="✔️ TV | 24 HORAS VIX NOVELAS",Acapulco Shore
+http://www.1play.cool:25461/fmromero21/2fede79dc3/176511
+#EXTINF:-1 tvg-id="" tvg-name="Cine Hollywood" tvg-logo="" group-title="✔️ TV | 24 HORAS VIX NOVELAS",Cine Hollywood
+http://www.1play.cool:25461/fmromero21/2fede79dc3/177156
+#EXTINF:-1 tvg-id="" tvg-name="Vecinos" tvg-logo="https://images.vix.com/prd/channel/6209318522bbc72ac5ec12ee/ad895f26368f89f4b0a7786b97636891" group-title="✔️ TV | 24 HORAS VIX NOVELAS",Vecinos
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165433
