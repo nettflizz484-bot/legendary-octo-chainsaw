@@ -1,0 +1,1184 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+
+#EXTINF:-1 tvg-id="" tvg-name="24H | Chespirito" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="🇦🇷 TV ARGENTINA",24H | Chespirito
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266543
+
+#EXTINF:-1 tvg-id="" tvg-name="24H | El Chavo del 8" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="🇦🇷 TV ARGENTINA",24H | El Chavo del 8
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266546
+
+#EXTINF:-1 tvg-id="" tvg-name="24H | Los Simpsons FHD" tvg-logo="/247/simpson.png" group-title="🇦🇷 TV ARGENTINA",24H | Los Simpsons FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266612
+
+#EXTINF:-1 tvg-id="" tvg-name="24H | Los Simpsons Horror HD" tvg-logo="/247/simpsonsterror.png" group-title="🇦🇷 TV ARGENTINA",24H | Los Simpsons Horror HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266614
+
+#EXTINF:-1 tvg-id="" tvg-name="24H | Paw Patrol FHD" tvg-logo="/247/pawpatrol2.png" group-title="👶 INFANTIL",24H | Paw Patrol FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266634
+
+#EXTINF:-1 tvg-id="" tvg-name="24H | Pedro el Escamoso" tvg-logo="https://dl.dropboxusercontent.com/s/9l2g4haedez7y37/laguardiadelleon.png" group-title="🇦🇷 TV ARGENTINA",24H | Pedro el Escamoso
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266591
+
+#EXTINF:-1 tvg-id="" tvg-name="24H | Pepa Pig" tvg-logo="/247/twd.png" group-title="👶 INFANTIL",24H | Pepa Pig
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266662
+
+#EXTINF:-1 tvg-id="a24.ar" tvg-name="A24" tvg-logo="http://213.145.87.11/Logos/4rgentina/a24.png" group-title="🇦🇷 TV ARGENTINA",A24
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29938
+
+#EXTINF:-1 tvg-id="a24.ar" tvg-name="A24 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/a24.png" group-title="🇦🇷 TV ARGENTINA",A24 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163683
+
+#EXTINF:-1 tvg-id="" tvg-name="A24 HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/a24.png" group-title="🇦🇷 TV ARGENTINA",A24 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282340
+
+#EXTINF:-1 tvg-id="america24.ar" tvg-name="America TV" tvg-logo="http://213.145.87.11/Logos/4rgentina/americatv.png" group-title="🇦🇷 TV ARGENTINA",America TV
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30398
+
+#EXTINF:-1 tvg-id="america24.ar" tvg-name="America TV FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/americatv.png" group-title="🇦🇷 TV ARGENTINA",America TV FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29997
+
+#EXTINF:-1 tvg-id="america24.ar" tvg-name="America TV HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/americatv.png" group-title="🇦🇷 TV ARGENTINA",America TV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77197
+
+#EXTINF:-1 tvg-id="c5n.ar" tvg-name="C5N FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/c5n.png" group-title="🇦🇷 TV ARGENTINA",C5N FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128753
+
+#EXTINF:-1 tvg-id="c5n.ar" tvg-name="C5N HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/c5n.png" group-title="🇦🇷 TV ARGENTINA",C5N HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/147245
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="http://213.145.87.11/Logos/4rgentina/canal26.png" group-title="🇦🇷 TV ARGENTINA",Canal 26
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282344
+
+#EXTINF:-1 tvg-id="canal26.ar" tvg-name="Canal 26 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/canal26.png" group-title="🇦🇷 TV ARGENTINA",Canal 26 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/147248
+
+#EXTINF:-1 tvg-id="canal26.ar" tvg-name="Canal 26 HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/canal26.png" group-title="🇦🇷 TV ARGENTINA",Canal 26 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30233
+
+#EXTINF:-1 tvg-id="cinear.ar" tvg-name="CineAR HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/cinear.png" group-title="🎬 CINE Y SERIES",CineAR HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29865
+
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad Magazine" tvg-logo="" group-title="🇦🇷 TV ARGENTINA",Ciudad Magazine
+http://www.1play.cool:25461/fmromero21/2fede79dc3/384340
+
+#EXTINF:-1 tvg-id="cronica.ar" tvg-name="Crónica TV HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/cronica.png" group-title="🇦🇷 TV ARGENTINA",Crónica TV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163694
+
+#EXTINF:-1 tvg-id="deportv.ar" tvg-name="Deportv FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/deportv.png" group-title="⚽ DEPORTES ARG",Deportv FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29934
+
+#EXTINF:-1 tvg-id="canal9.ar" tvg-name="El Nueve" tvg-logo="http://213.145.87.11/Logos/4rgentina/elnueve.png" group-title="🇦🇷 TV ARGENTINA",El Nueve
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29987
+
+#EXTINF:-1 tvg-id="canal9.ar" tvg-name="El Nueve HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/elnueve.png" group-title="🇦🇷 TV ARGENTINA",El Nueve HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163691
+
+#EXTINF:-1 tvg-id="eltrece.ar" tvg-name="El Trece" tvg-logo="http://213.145.87.11/Logos/4rgentina/eltrece.png" group-title="🇦🇷 TV ARGENTINA",El Trece
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29982
+
+#EXTINF:-1 tvg-id="eltrece.ar" tvg-name="El Trece FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/eltrece.png" group-title="🇦🇷 TV ARGENTINA",El Trece FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31258
+
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ESPN FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn.png" group-title="⚽ DEPORTES ARG",ESPN FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128754
+
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ESPN HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn.png" group-title="⚽ DEPORTES ARG",ESPN HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/135740
+
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ESPN HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn.png" group-title="⚽ DEPORTES ARG",ESPN HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/73195
+
+#EXTINF:-1 tvg-id="a&e.ar" tvg-name="ESPN 2" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn2.png" group-title="⚽ DEPORTES ARG",ESPN 2
+http://www.1play.cool:25461/fmromero21/2fede79dc3/135741
+
+#EXTINF:-1 tvg-id="espn1.ar" tvg-name="ESPN 2 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn2.png" group-title="⚽ DEPORTES ARG",ESPN 2 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163698
+
+#EXTINF:-1 tvg-id="espn1.ar" tvg-name="ESPN 2 HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn2.png" group-title="⚽ DEPORTES ARG",ESPN 2 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/61317
+
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn3.png" group-title="⚽ DEPORTES ARG",ESPN 3
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77096
+
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3 HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn3.png" group-title="⚽ DEPORTES ARG",ESPN 3 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163699
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn4.png" group-title="⚽ DEPORTES ARG",ESPN 4
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282346
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn4.png" group-title="⚽ DEPORTES ARG",ESPN 4 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282345
+
+#EXTINF:-1 tvg-id="espnextra.ar" tvg-name="ESPN 4 HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn4.png" group-title="⚽ DEPORTES ARG",ESPN 4 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163700
+
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="http://213.145.87.11/Logos/4rgentina/espnpremium.png" group-title="⚽ DEPORTES ARG",ESPN Premium
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163702
+
+#EXTINF:-1 tvg-id="A.and.E.(Argentina).(A.and.E).ar" tvg-name="ESPN Premium FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espnpremium.png" group-title="⚽ DEPORTES ARG",ESPN Premium FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/78448
+
+#EXTINF:-1 tvg-id="foxsportspremium.ar" tvg-name="ESPN Premium HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espnpremium.png" group-title="⚽ DEPORTES ARG",ESPN Premium HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/61284
+
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="Fox Sports" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports.png" group-title="⚽ DEPORTES ARG",Fox Sports
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128757
+
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="Fox Sports FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports.png" group-title="⚽ DEPORTES ARG",Fox Sports FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163705
+
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="Fox Sports HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports.png" group-title="⚽ DEPORTES ARG",Fox Sports HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30244
+
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="Fox Sports 2" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports2.png" group-title="⚽ DEPORTES ARG",Fox Sports 2
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163703
+
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="Fox Sports 2 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports2.png" group-title="⚽ DEPORTES ARG",Fox Sports 2 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/137713
+
+#EXTINF:-1 tvg-id="CO | CO - FOX Sports 2 HD" tvg-name="Fox Sports 2 HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports2.png" group-title="⚽ DEPORTES ARG",Fox Sports 2 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/41030
+
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="Fox Sports 3" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports3.png" group-title="⚽ DEPORTES ARG",Fox Sports 3
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163704
+
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="Fox Sports 3 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports3.png" group-title="⚽ DEPORTES ARG",Fox Sports 3 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128759
+
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="Fox Sports 3 HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports3.png" group-title="⚽ DEPORTES ARG",Fox Sports 3 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30245
+
+#EXTINF:-1 tvg-id="elgaragetv.ar" tvg-name="Garage TV" tvg-logo="http://213.145.87.11/Logos/4rgentina/garagetv.png" group-title="🇦🇷 TV ARGENTINA",Garage TV
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29983
+
+#EXTINF:-1 tvg-id="A.and.E.(Argentina).(A.and.E).ar" tvg-name="La Nación +" tvg-logo="http://213.145.87.11/Logos/4rgentina/lanacion.png" group-title="🇦🇷 TV ARGENTINA",La Nación +
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29986
+
+#EXTINF:-1 tvg-id="A.and.E.(Argentina).(A.and.E).ar" tvg-name="La Nación + HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/lanacion.png" group-title="🇦🇷 TV ARGENTINA",La Nación + HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128760
+
+#EXTINF:-1 tvg-id="" tvg-name="Multivision HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/multivision.png" group-title="🇦🇷 TV ARGENTINA",Multivision HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163707
+
+#EXTINF:-1 tvg-id="A.and.E.(Argentina).(A.and.E).ar" tvg-name="Net TV HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/nettv.png" group-title="🇦🇷 TV ARGENTINA",Net TV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128761
+
+#EXTINF:-1 tvg-id="pakapaka.ar" tvg-name="Paka Paka HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/pakapaka.png" group-title="👶 INFANTIL",Paka Paka HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29939
+
+#EXTINF:-1 tvg-id="" tvg-name="PX TV HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/pxsports.png" group-title="🇦🇷 TV ARGENTINA",PX TV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163710
+
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe" tvg-logo="http://213.145.87.11/Logos/4rgentina/telefe.png" group-title="🇦🇷 TV ARGENTINA",Telefe
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29863
+
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/telefe.png" group-title="🇦🇷 TV ARGENTINA",Telefe FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163711
+
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/telefe.png" group-title="🇦🇷 TV ARGENTINA",Telefe HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163708
+
+#EXTINF:-1 tvg-id="AR - TN" tvg-name="TN Noticias" tvg-logo="http://213.145.87.11/Logos/4rgentina/tnnoticias.png" group-title="🇦🇷 TV ARGENTINA",TN Noticias
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29936
+
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="TNT Sports Premium" tvg-logo="http://213.145.87.11/Logos/4rgentina/tntsportpremium.png" group-title="⚽ DEPORTES ARG",TNT Sports Premium
+http://www.1play.cool:25461/fmromero21/2fede79dc3/135707
+
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="TNT Sports Premium FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tntsportpremium.png" group-title="⚽ DEPORTES ARG",TNT Sports Premium FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31185
+
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="TNT Sports Premium HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tntsportpremium.png" group-title="⚽ DEPORTES ARG",TNT Sports Premium HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/42440
+
+#EXTINF:-1 tvg-id="tvpública.ar" tvg-name="TV Publica" tvg-logo="http://213.145.87.11/Logos/4rgentina/tvpublica.png" group-title="🇦🇷 TV ARGENTINA",TV Publica
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163713
+
+#EXTINF:-1 tvg-id="tvpública.ar" tvg-name="TV Publica FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tvpublica.png" group-title="🇦🇷 TV ARGENTINA",TV Publica FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29864
+
+#EXTINF:-1 tvg-id="tvpública.ar" tvg-name="TV Publica HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tvpublica.png" group-title="🇦🇷 TV ARGENTINA",TV Publica HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30463
+
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="TyC Sports" tvg-logo="http://213.145.87.11/Logos/4rgentina/tycsports.png" group-title="⚽ DEPORTES ARG",TyC Sports
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77098
+
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="TyC Sports FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tycsports.png" group-title="⚽ DEPORTES ARG",TyC Sports FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/69033
+
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="TyC Sports HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tycsports.png" group-title="⚽ DEPORTES ARG",TyC Sports HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77099
+
+#EXTINF:-1 tvg-id="volver.ar" tvg-name="Volver HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/volver.png" group-title="🇦🇷 TV ARGENTINA",Volver HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/60140
+
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Argentina 24/7" tvg-logo="http://213.145.87.11:90/Logos/gh.png" group-title="🇦🇷 TV ARGENTINA",Gran Hermano Argentina 24/7
+http://www.1play.cool:25461/fmromero21/2fede79dc3/422313
+
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Argentina CAM 1" tvg-logo="http://213.145.87.11:90/Logos/gh.png" group-title="🇦🇷 TV ARGENTINA",Gran Hermano Argentina CAM 1
+http://www.1play.cool:25461/fmromero21/2fede79dc3/428182
+
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Argentina CAM 2" tvg-logo="http://213.145.87.11:90/Logos/gh.png" group-title="🇦🇷 TV ARGENTINA",Gran Hermano Argentina CAM 2
+http://www.1play.cool:25461/fmromero21/2fede79dc3/428183
+
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Argentina CAM 3" tvg-logo="http://213.145.87.11:90/Logos/gh.png" group-title="🇦🇷 TV ARGENTINA",Gran Hermano Argentina CAM 3
+http://www.1play.cool:25461/fmromero21/2fede79dc3/428184
+
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Argentina MultiCAM" tvg-logo="http://213.145.87.11:90/Logos/gh.png" group-title="🇦🇷 TV ARGENTINA",Gran Hermano Argentina MultiCAM
+http://www.1play.cool:25461/fmromero21/2fede79dc3/428185
+
+#EXTINF:-1 tvg-id="MX - A&E Mundo" tvg-name="A&E" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_ae.png" group-title="🎬 CINE Y SERIES",A&E
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30656
+
+#EXTINF:-1 tvg-id="I430.88305.schedulesdirect.org" tvg-name="A3cine" tvg-logo="https://od.lk/s/MzlfMzQ1NjIxOTJf/mx_arts.png" group-title="🎬 CINE Y SERIES",A3cine
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134284
+
+#EXTINF:-1 tvg-id="MX - AMC HD" tvg-name="AMC" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_amc.png" group-title="🎬 CINE Y SERIES",AMC
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45928
+
+#EXTINF:-1 tvg-id="MX - Animal Planet" tvg-name="Animal Planet" tvg-logo="http://209.126.82.213/logos/mx_animal_planet.png" group-title="📚 DOCUMENTALES",Animal Planet
+http://www.1play.cool:25461/fmromero21/2fede79dc3/59920
+
+#EXTINF:-1 tvg-id="I58.90898.schedulesdirect.org" tvg-name="Atreseries" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Nzlf/mx_a3series.png" group-title="🇲🇽 TV MEXICO",Atreseries
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134285
+
+#EXTINF:-1 tvg-id="MX - AXN" tvg-name="AXN" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1ODRf/mx_axn.png" group-title="🎬 CINE Y SERIES",AXN
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30659
+
+#EXTINF:-1 tvg-id="I80.34863.schedulesdirect.org" tvg-name="AYM" tvg-logo="http://209.126.82.213/logos/mx_aym.png" group-title="🇲🇽 TV MEXICO",AYM
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134286
+
+#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-name="Azteca 7" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MjNf/mx_azteca_7.png" group-title="🇲🇽 TV MEXICO",Azteca 7
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134288
+
+#EXTINF:-1 tvg-id="CO - Antena 3" tvg-name="Azteca Deportes" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1ODJf/mx_antena_3.png" group-title="⚽ DEPORTES",Azteca Deportes
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30657
+
+#EXTINF:-1 tvg-id="XHDF.Ciudad.de.México.(Azteca.Uno).DF.(AZUNO).mx" tvg-name="Azteca Uno" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MjRf/mx_azteca_uno.png" group-title="🇲🇽 TV MEXICO",Azteca Uno
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134289
+
+#EXTINF:-1 tvg-id="CL - BabyTV" tvg-name="Baby TV" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1ODZf/mx_baby_tv.png" group-title="👶 INFANTIL",Baby TV
+http://www.1play.cool:25461/fmromero21/2fede79dc3/59921
+
+#EXTINF:-1 tvg-id="MX - Bandamax" tvg-name="Bandamax" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MjVf/mx_bandamax.png" group-title="🇲🇽 TV MEXICO",Bandamax
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134332
+
+#EXTINF:-1 tvg-id="LATINO_Networks_and_Sports_EPGCanal5.mx" tvg-name="Canal 5" tvg-logo="http://209.126.82.213/logos/mx_canal_5.png" group-title="🇲🇽 TV MEXICO",Canal 5
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134290
+
+#EXTINF:-1 tvg-id="MX - Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTBf/mx_cartoon_network.png" group-title="👶 INFANTIL",Cartoon Network
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30665
+
+#EXTINF:-1 tvg-id="MX - Boomerang" tvg-name="Cartoonito" tvg-logo="https://od.lk/s/MzlfMzQ1NjE0ODRf/mx_cartoonito.png" group-title="👶 INFANTIL",Cartoonito
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30660
+
+#EXTINF:-1 tvg-id="CO - Cinelatino" tvg-name="Cine Latino" tvg-logo="https://od.lk/s/MzlfMzQ1NjIyMTBf/mx_cine_latino.png" group-title="🎬 CINE Y SERIES",Cine Latino
+http://www.1play.cool:25461/fmromero21/2fede79dc3/67196
+
+#EXTINF:-1 tvg-id="MX - Cinecanal HD" tvg-name="Cinecanal" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTJf/mx_cinecanal.png" group-title="🎬 CINE Y SERIES",Cinecanal
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30661
+
+#EXTINF:-1 tvg-id="MX - Cinemax" tvg-name="Cinemax" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_cinemax.png" group-title="🎬 CINE Y SERIES",Cinemax
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30663
+
+#EXTINF:-1 tvg-id="I152.84479.schedulesdirect.org" tvg-name="Claro Sports" tvg-logo="http://209.126.82.213/LogosP/Deportes/dep_clarosports.png" group-title="⚽ DEPORTES",Claro Sports
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134291
+
+#EXTINF:-1 tvg-id="PE - CNN en Español" tvg-name="CNN Espanol" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MzRf/mx_cnn_esp.png" group-title="🇲🇽 TV MEXICO",CNN Espanol
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134312
+
+#EXTINF:-1 tvg-id="PE - CNN (EE.UU.)" tvg-name="CNN Internacional" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTRf/mx_cnn.png" group-title="🇲🇽 TV MEXICO",CNN Internacional
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134292
+
+#EXTINF:-1 tvg-id="MX - Comedy Central" tvg-name="Comedy Central" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MzVf/mx_comedy_central.png" group-title="🇲🇽 TV MEXICO",Comedy Central
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30664
+
+#EXTINF:-1 tvg-id="MX - De Película HD" tvg-name="De Pelicula" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MzZf/mx_depelicula.png" group-title="🇲🇽 TV MEXICO",De Pelicula
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45938
+
+#EXTINF:-1 tvg-id="CO - DHE" tvg-name="DHE" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NjRf/mx_dhe.png" group-title="🎬 CINE Y SERIES",DHE
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45930
+
+#EXTINF:-1 tvg-id="MX - Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://209.126.82.213/logos/mx_discovery.png" group-title="📚 DOCUMENTALES",Discovery Channel
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30667
+
+#EXTINF:-1 tvg-id="MX - Discovery Home & Health" tvg-name="Discovery Home & Healt" tvg-logo="http://209.126.82.213/logos/mx_discovery_hh.png" group-title="📚 DOCUMENTALES",Discovery Home & Healt
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30666
+
+#EXTINF:-1 tvg-id="MX - Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Mzlf/mx_discovery_kids.png" group-title="👶 INFANTIL",Discovery Kids
+http://www.1play.cool:25461/fmromero21/2fede79dc3/67190
+
+#EXTINF:-1 tvg-id="MX - Discovery HD Theater" tvg-name="Discovery Theather" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTdf/mx_discovery_theater.png" group-title="📚 DOCUMENTALES",Discovery Theather
+http://www.1play.cool:25461/fmromero21/2fede79dc3/67191
+
+#EXTINF:-1 tvg-id="CO - Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OThf/mx_discovery_turbo.png" group-title="📚 DOCUMENTALES",Discovery Turbo
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31118
+
+#EXTINF:-1 tvg-id="MX - Discovery World HD" tvg-name="Discovery World" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTlf/mx_discovery_world.png" group-title="📚 DOCUMENTALES",Discovery World
+http://www.1play.cool:25461/fmromero21/2fede79dc3/67192
+
+#EXTINF:-1 tvg-id="MX - Disney Channel" tvg-name="Disney Channel" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MDBf/mx_disney.png" group-title="👶 INFANTIL",Disney Channel
+http://www.1play.cool:25461/fmromero21/2fede79dc3/59922
+
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.(Mexico).(E!).mx" tvg-name="E! Entertaiment" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MDVf/mx_e.png" group-title="🇲🇽 TV MEXICO",E! Entertaiment
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134293
+
+#EXTINF:-1 tvg-id="CO - elgourmet" tvg-name="Elgourmet" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MDZf/mx_el_gourmet.png" group-title="🇲🇽 TV MEXICO",Elgourmet
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134298
+
+#EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-name="ESPN" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDBf/mx_espn.png" group-title="⚽ DEPORTES",ESPN
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31122
+
+#EXTINF:-1 tvg-id="ESPN.2.Latin.North.(Mexico).(ESPN2M).mx" tvg-name="ESPN 2" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDFf/mx_espn_2.png" group-title="⚽ DEPORTES",ESPN 2
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31123
+
+#EXTINF:-1 tvg-id="ESPN.3.North.(Latin.America).(ESPN3).mx" tvg-name="ESPN 3" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MDhf/mx_espn_3.png" group-title="⚽ DEPORTES",ESPN 3
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31124
+
+#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="ESPN 4" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NjVf/mx_espn_extra.png" group-title="⚽ DEPORTES",ESPN 4
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134294
+
+#EXTINF:-1 tvg-id="Exa.TV.(EXATV).mx" tvg-name="Estrellas" tvg-logo="" group-title="🇲🇽 TV MEXICO",Estrellas
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134295
+
+#EXTINF:-1 tvg-id="CL - Europa Europa" tvg-name="Europa Europa" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MDlf/mx_europa.png" group-title="🎬 CINE Y SERIES",Europa Europa
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45931
+
+#EXTINF:-1 tvg-id="MX - Film&Arts" tvg-name="Film & Arts" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MTJf/mx_film_arts.png" group-title="🎬 CINE Y SERIES",Film & Arts
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30658
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Food Network" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MTNf/mx_food_network.png" group-title="🇲🇽 TV MEXICO",Food Network
+http://www.1play.cool:25461/fmromero21/2fede79dc3/61123
+
+#EXTINF:-1 tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2).mx" tvg-name="Fox Sports 2" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MTdf/mx_fox_sports_2.png" group-title="⚽ DEPORTES",Fox Sports 2
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31131
+
+#EXTINF:-1 tvg-id="Fox.Sports.3.(Cono.Norte).(FOXSP3).mx" tvg-name="Fox Sports 3" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MThf/mx_fox_sports_3.png" group-title="⚽ DEPORTES",Fox Sports 3
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31132
+
+#EXTINF:-1 tvg-id="MX - FX" tvg-name="FX" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2Njdf/mx_fx.png" group-title="🎬 CINE Y SERIES",FX
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31135
+
+#EXTINF:-1 tvg-id="MX - Golden Edge" tvg-name="Golden Edge" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDRf/mx_golden_edge.png" group-title="🎬 CINE Y SERIES",Golden Edge
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45937
+
+#EXTINF:-1 tvg-id="CO - Golden Premier HD" tvg-name="Golden Premier" tvg-logo="https://od.lk/s/MzlfMzQ1NjIyNDdf/mx_golden_premier.png" group-title="🎬 CINE Y SERIES",Golden Premier
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45932
+
+#EXTINF:-1 tvg-id="MX - HBO HD" tvg-name="HBO" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MjJf/mx_hbo.png" group-title="🎬 CINE Y SERIES",HBO
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31138
+
+#EXTINF:-1 tvg-id="MX - HBO 2" tvg-name="HBO 2" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MjVf/mx_hbo2.png" group-title="🎬 CINE Y SERIES",HBO 2
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31140
+
+#EXTINF:-1 tvg-id="MX - HBO Family" tvg-name="HBO Family" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDZf/mx_hbo_family.png" group-title="🎬 CINE Y SERIES",HBO Family
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31139
+
+#EXTINF:-1 tvg-id="MX - Max" tvg-name="HBO Mundi" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDdf/mx_hbo_mundi.png" group-title="🎬 CINE Y SERIES",HBO Mundi
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134299
+
+#EXTINF:-1 tvg-id="MX - HBO Plus México" tvg-name="HBO Plus" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MjNf/mx_hbo_plus.png" group-title="🎬 CINE Y SERIES",HBO Plus
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45929
+
+#EXTINF:-1 tvg-id="CO - HBO Signature HD" tvg-name="HBO Signature" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MjRf/mx_hbo_signature.png" group-title="🎬 CINE Y SERIES",HBO Signature
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45933
+
+#EXTINF:-1 tvg-id="MX - Max Prime México" tvg-name="HBO Xtreme" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDlf/mx_hbo_xtreme.png" group-title="🎬 CINE Y SERIES",HBO Xtreme
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134300
+
+#EXTINF:-1 tvg-id="MX - History HD" tvg-name="History" tvg-logo="https://od.lk/s/MzlfMzQ1NjE0ODdf/mx_history.png" group-title="📚 DOCUMENTALES",History
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134301
+
+#EXTINF:-1 tvg-id="CO - H2" tvg-name="History 2" tvg-logo="https://od.lk/s/MzlfMzQ1NjE0ODhf/mx_history_2.png" group-title="📚 DOCUMENTALES",History 2
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31137
+
+#EXTINF:-1 tvg-id="CL - HTV" tvg-name="HTV" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NTFf/mx_htv.png" group-title="🇲🇽 TV MEXICO",HTV
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134303
+
+#EXTINF:-1 tvg-id="MX - Investigation Discovery" tvg-name="Investigation Discovery" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Mzhf/mx_discovery_id.png" group-title="📚 DOCUMENTALES",Investigation Discovery
+http://www.1play.cool:25461/fmromero21/2fede79dc3/39739
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Kanal Drama" tvg-logo="" group-title="🇲🇽 TV MEXICO",Kanal Drama
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134304
+
+#EXTINF:-1 tvg-id="MX - Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NTNf/mx_las_estrellas.png" group-title="🇲🇽 TV MEXICO",Las Estrellas
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31120
+
+#EXTINF:-1 tvg-id="CO - Lifetime" tvg-name="Lifetime" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NTRf/mx_lifetime.png" group-title="🎬 CINE Y SERIES",Lifetime
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134305
+
+#EXTINF:-1 tvg-id="CO - Multipremier" tvg-name="Multi Premier" tvg-logo="https://od.lk/s/MzlfMzQ1NjIzMTRf/mx_multipremier.png" group-title="🎬 CINE Y SERIES",Multi Premier
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134310
+
+#EXTINF:-1 tvg-id="MX - National Geographic" tvg-name="National Geographic" tvg-logo="http://209.126.82.213/LogosP/Cultura/cult_national_Geographic.png" group-title="📚 DOCUMENTALES",National Geographic
+http://www.1play.cool:25461/fmromero21/2fede79dc3/67194
+
+#EXTINF:-1 tvg-id="MX - Canal Once" tvg-name="Once" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Njhf/mx_once.png" group-title="🇲🇽 TV MEXICO",Once
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134317
+
+#EXTINF:-1 tvg-id="Canal.Once.XEIPN.(CANL11).mx" tvg-name="Once Niñas y Niños" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Njlf/mx_once_ninas.png" group-title="👶 INFANTIL",Once Niñas y Niños
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134318
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Pasiones" tvg-logo="" group-title="🇲🇽 TV MEXICO",Pasiones
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134322
+
+#EXTINF:-1 tvg-id="MX - Sony HD" tvg-name="Sony Channel" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NzBf/mx_sony.png" group-title="🎬 CINE Y SERIES",Sony Channel
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45936
+
+#EXTINF:-1 tvg-id="MX - Space" tvg-name="Space" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NDFf/mx_space.png" group-title="🎬 CINE Y SERIES",Space
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31141
+
+#EXTINF:-1 tvg-id="MX - FOX" tvg-name="Star Channel" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NzBf/mx_star_channel.png" group-title="🎬 CINE Y SERIES",Star Channel
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31125
+
+#EXTINF:-1 tvg-id="MX - Studio Universal" tvg-name="Studio Universal" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NDJf/mx_studio_universal.png" group-title="🎬 CINE Y SERIES",Studio Universal
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134324
+
+#EXTINF:-1 tvg-id="MX - TBS" tvg-name="TCM" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NDRf/mx_tbs.png" group-title="🎬 CINE Y SERIES",TCM
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134325
+
+#EXTINF:-1 tvg-id="CO - TLC" tvg-name="TLC" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NzJf/mx_tlc.png" group-title="📚 DOCUMENTALES",TLC
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134327
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="🎬 CINE Y SERIES",TNT
+http://www.1play.cool:25461/fmromero21/2fede79dc3/172624
+
+#EXTINF:-1 tvg-id="CO - TNT Series" tvg-name="TNT Series" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NTBf/mx_tnt_series.png" group-title="🎬 CINE Y SERIES",TNT Series
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31144
+
+#EXTINF:-1 tvg-id="I464.75176.zap2it.com" tvg-name="TUDN" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NTNf/mx_tudn.png" group-title="⚽ DEPORTES",TUDN
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134311
+
+#EXTINF:-1 tvg-id="MX - Az Corazón" tvg-name="TVC Deportes" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NTVf/mx_tv_d.png" group-title="⚽ DEPORTES",TVC Deportes
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134328
+
+#EXTINF:-1 tvg-id="MX - Universal Channel" tvg-name="Universal Channel" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NTdf/mx_universal_tv.png" group-title="🎬 CINE Y SERIES",Universal Channel
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45935
+
+#EXTINF:-1 tvg-id="Teveunam.(UNAM).mx" tvg-name="Universal Cinema" tvg-logo="" group-title="🎬 CINE Y SERIES",Universal Cinema
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134329
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Comedy" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MTNf/mx_universal_comedy.png" group-title="🎬 CINE Y SERIES",Universal Comedy
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134423
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Crime" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MTRf/mx_universal_crime.png" group-title="🎬 CINE Y SERIES",Universal Crime
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134424
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Premiere Este" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MTVf/mx_universal_premiere.png" group-title="🎬 CINE Y SERIES",Universal Premiere Este
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134425
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Reality" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MTZf/mx_universal_reality.png" group-title="🎬 CINE Y SERIES",Universal Reality
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134427
+
+#EXTINF:-1 tvg-id="MX - Warner Channel" tvg-name="Warner Channel" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Nzdf/mx_warner.png" group-title="🎬 CINE Y SERIES",Warner Channel
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31145
+
+#EXTINF:-1 tvg-id="CinemaDinamita.mx" tvg-name="CINE | Cine Dinamita (960x540) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/cinedinamita.png" group-title="🎬 CINE Y SERIES",CINE | Cine Dinamita (960x540) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/174653
+
+#EXTINF:-1 tvg-id="depelícula.mx" tvg-name="CINE | De Pelicula (1280x720) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/depelicula.png" group-title="🎬 CINE Y SERIES",CINE | De Pelicula (1280x720) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29737
+
+#EXTINF:-1 tvg-id="depelícula.mx" tvg-name="CINE | De Pelicula (1920x1080) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/depelicula.png" group-title="🎬 CINE Y SERIES",CINE | De Pelicula (1920x1080) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/277090
+
+#EXTINF:-1 tvg-id="depelícula.mx" tvg-name="CINE | De Pelicula (832x468) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/depelicula.png" group-title="🎬 CINE Y SERIES",CINE | De Pelicula (832x468) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/277089
+
+#EXTINF:-1 tvg-id="Canal.De.Película.(Multiplex).mx" tvg-name="CINE | De Pelicula Plus (1280x720) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/depeliculaplus.png" group-title="🎬 CINE Y SERIES",CINE | De Pelicula Plus (1280x720) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/47442
+
+#EXTINF:-1 tvg-id="europaeuropa.mx" tvg-name="CINE | Europa Europa (1920x1080) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/europa.png" group-title="🎬 CINE Y SERIES",CINE | Europa Europa (1920x1080) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/32886
+
+#EXTINF:-1 tvg-id="europaeuropa.mx" tvg-name="CINE | Europa Europa (1280x720) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/europa.png" group-title="🎬 CINE Y SERIES",CINE | Europa Europa (1280x720) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282821
+
+#EXTINF:-1 tvg-id="europaeuropa.mx" tvg-name="CINE | Europa Europa (960x540) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/europa.png" group-title="🎬 CINE Y SERIES",CINE | Europa Europa (960x540) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/277091
+
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="CINE | Golden Edge (1280x720) ᶜᵒ" tvg-logo="http://213.145.87.11/Logos/Cin3/goldenedge.png" group-title="🎬 CINE Y SERIES",CINE | Golden Edge (1280x720) ᶜᵒ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29823
+
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="CINE | Golden Edge (1920x1080) ᶜᵒ" tvg-logo="http://213.145.87.11/Logos/Cin3/goldenedge.png" group-title="🎬 CINE Y SERIES",CINE | Golden Edge (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/210086
+
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="CINE | Golden Edge (832x468) ᶜᵒ" tvg-logo="http://213.145.87.11/Logos/Cin3/goldenedge.png" group-title="🎬 CINE Y SERIES",CINE | Golden Edge (832x468) ᶜᵒ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29766
+
+#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="CINE | Golden Plus (1280x720) ᶜᵒ" tvg-logo="http://213.145.87.11/Logos/Cin3/goldenplus.png" group-title="🎬 CINE Y SERIES",CINE | Golden Plus (1280x720) ᶜᵒ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77161
+
+#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="CINE | Golden Plus (1920x1080) ᶜᵒ" tvg-logo="http://213.145.87.11/Logos/Cin3/goldenplus.png" group-title="🎬 CINE Y SERIES",CINE | Golden Plus (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77162
+
+#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="CINE | Golden Plus (832x468) ᶜᵒ" tvg-logo="http://213.145.87.11/Logos/Cin3/goldenplus.png" group-title="🎬 CINE Y SERIES",CINE | Golden Plus (832x468) ᶜᵒ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/277092
+
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="CINE | Golden Premier (1280x720) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/goldenpremiere.png" group-title="🎬 CINE Y SERIES",CINE | Golden Premier (1280x720) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128510
+
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="CINE | Golden Premier (1920x1080) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/goldenpremiere.png" group-title="🎬 CINE Y SERIES",CINE | Golden Premier (1920x1080) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/32914
+
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="CINE | Golden Premier (960x540) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/goldenpremiere.png" group-title="🎬 CINE Y SERIES",CINE | Golden Premier (960x540) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30448
+
+#EXTINF:-1 tvg-id="goldenpremier2.mx" tvg-name="CINE | Golden Premier 2 (1280x720)" tvg-logo="http://213.145.87.11/Logos/Cin3/goldenpremiere2.png" group-title="🎬 CINE Y SERIES",CINE | Golden Premier 2 (1280x720)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282341
+
+#EXTINF:-1 tvg-id="goldenpremier2.mx" tvg-name="CINE | Golden Premier 2 (1920x1080)" tvg-logo="http://213.145.87.11/Logos/Cin3/goldenpremiere2.png" group-title="🎬 CINE Y SERIES",CINE | Golden Premier 2 (1920x1080)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282342
+
+#EXTINF:-1 tvg-id="goldenpremier2.mx" tvg-name="CINE | Golden Premier 2 (832x468)" tvg-logo="http://213.145.87.11/Logos/Cin3/goldenpremiere2.png" group-title="🎬 CINE Y SERIES",CINE | Golden Premier 2 (832x468)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282343
+
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="CINE | HBO (1280x720) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/hbo.png" group-title="🎬 CINE Y SERIES",CINE | HBO (1280x720) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29917
+
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="CINE | HBO (1920x1080) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/hbo.png" group-title="🎬 CINE Y SERIES",CINE | HBO (1920x1080) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/41020
+
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="CINE | HBO (960x540) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/hbo.png" group-title="🎬 CINE Y SERIES",CINE | HBO (960x540) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/47462
+
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="CINE | HBO 2 (1280x720) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/hbo2.png" group-title="🎬 CINE Y SERIES",CINE | HBO 2 (1280x720) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/41021
+
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="CINE | HBO 2 (1920x1080) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/hbo2.png" group-title="🎬 CINE Y SERIES",CINE | HBO 2 (1920x1080) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29874
+
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="CINE | HBO 2 (832x468) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/hbo2.png" group-title="🎬 CINE Y SERIES",CINE | HBO 2 (832x468) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/62795
+
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="CINE | HBO Mundi (1280x720) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/hbomundi.png" group-title="🎬 CINE Y SERIES",CINE | HBO Mundi (1280x720) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/57567
+
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="CINE | HBO Mundi (1980x1080) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/hbomundi.png" group-title="🎬 CINE Y SERIES",CINE | HBO Mundi (1980x1080) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/47463
+
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="CINE | HBO Mundi (960x540) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/hbomundi.png" group-title="🎬 CINE Y SERIES",CINE | HBO Mundi (960x540) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31287
+
+#EXTINF:-1 tvg-id="starchannel.mx" tvg-name="CINE | Star Channel (1280x720) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/starchannel.png" group-title="🎬 CINE Y SERIES",CINE | Star Channel (1280x720) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/41013
+
+#EXTINF:-1 tvg-id="starchannel.mx" tvg-name="CINE | Star Channel (1920x1080) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/starchannel.png" group-title="🎬 CINE Y SERIES",CINE | Star Channel (1920x1080) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29753
+
+#EXTINF:-1 tvg-id="starchannel.mx" tvg-name="CINE | Star Channel (960x540) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/starchannel.png" group-title="🎬 CINE Y SERIES",CINE | Star Channel (960x540) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29814
+
+#EXTINF:-1 tvg-id="tbs.mx" tvg-name="CINE | TNT Novelas (1280x720) ᶜᵒ" tvg-logo="http://213.145.87.11/Logos/Cin3/tntnovels.png" group-title="🎬 CINE Y SERIES",CINE | TNT Novelas (1280x720) ᶜᵒ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77177
+
+#EXTINF:-1 tvg-id="tbs.mx" tvg-name="CINE | TNT Novelas (1920x1080) ᶜᵒ" tvg-logo="http://213.145.87.11/Logos/Cin3/tntnovels.png" group-title="🎬 CINE Y SERIES",CINE | TNT Novelas (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77176
+
+#EXTINF:-1 tvg-id="tbs.mx" tvg-name="CINE | TNT Novelas (832x468) ᶜᵒ" tvg-logo="http://213.145.87.11/Logos/Cin3/tntnovels.png" group-title="🎬 CINE Y SERIES",CINE | TNT Novelas (832x468) ᶜᵒ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/32925
+
+#EXTINF:-1 tvg-id="universalcinema.mx" tvg-name="CINE | Universal Cinema (1280x720) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/universalcinema.png" group-title="🎬 CINE Y SERIES",CINE | Universal Cinema (1280x720) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/73998
+
+#EXTINF:-1 tvg-id="universalcinema.mx" tvg-name="CINE | Universal Cinema (1920x1080) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/universalcinema.png" group-title="🎬 CINE Y SERIES",CINE | Universal Cinema (1920x1080) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/73994
+
+#EXTINF:-1 tvg-id="universalcinema.mx" tvg-name="CINE | Universal Cinema (960x540) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/universalcinema.png" group-title="🎬 CINE Y SERIES",CINE | Universal Cinema (960x540) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128511
+
+#EXTINF:-1 tvg-id="universalcomedy.mx" tvg-name="CINE | Universal Comedy (1280x720) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/universalcomedy.png" group-title="🎬 CINE Y SERIES",CINE | Universal Comedy (1280x720) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128512
+
+#EXTINF:-1 tvg-id="universalcomedy.mx" tvg-name="CINE | Universal Comedy (1920x1080) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/universalcomedy.png" group-title="🎬 CINE Y SERIES",CINE | Universal Comedy (1920x1080) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/76353
+
+#EXTINF:-1 tvg-id="universalcomedy.mx" tvg-name="CINE | Universal Comedy (960x540) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/universalcomedy.png" group-title="🎬 CINE Y SERIES",CINE | Universal Comedy (960x540) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128513
+
+#EXTINF:-1 tvg-id="universalcrime.mx" tvg-name="CINE | Universal Crime (1280x720) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/universalcrime.png" group-title="🎬 CINE Y SERIES",CINE | Universal Crime (1280x720) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/74000
+
+#EXTINF:-1 tvg-id="universalcrime.mx" tvg-name="CINE | Universal Crime (1920x1080) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/universalcrime.png" group-title="🎬 CINE Y SERIES",CINE | Universal Crime (1920x1080) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/164068
+
+#EXTINF:-1 tvg-id="universalcrime.mx" tvg-name="CINE | Universal Crime (960x540) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/universalcrime.png" group-title="🎬 CINE Y SERIES",CINE | Universal Crime (960x540) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/73997
+
+#EXTINF:-1 tvg-id="universalpremiere.mx" tvg-name="CINE | Universal Premiere (1280x720) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/universalpremiere.png" group-title="🎬 CINE Y SERIES",CINE | Universal Premiere (1280x720) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/73999
+
+#EXTINF:-1 tvg-id="universalpremiere.mx" tvg-name="CINE | Universal Premiere (1920x1080) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/universalpremiere.png" group-title="🎬 CINE Y SERIES",CINE | Universal Premiere (1920x1080) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/73996
+
+#EXTINF:-1 tvg-id="universalpremiere.mx" tvg-name="CINE | Universal Premiere (960x540) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/universalpremiere.png" group-title="🎬 CINE Y SERIES",CINE | Universal Premiere (960x540) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128514
+
+#EXTINF:-1 tvg-id="universalreality.mx" tvg-name="CINE | Universal Reality (1280x720) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/universalreality.png" group-title="🎬 CINE Y SERIES",CINE | Universal Reality (1280x720) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/41015
+
+#EXTINF:-1 tvg-id="universalreality.mx" tvg-name="CINE | Universal Reality (1920x1080) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/universalreality.png" group-title="🎬 CINE Y SERIES",CINE | Universal Reality (1920x1080) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/73995
+
+#EXTINF:-1 tvg-id="universalreality.mx" tvg-name="CINE | Universal Reality (960x540) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/universalreality.png" group-title="🎬 CINE Y SERIES",CINE | Universal Reality (960x540) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30395
+
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="CINE | USA Network (1280x720) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/usa.png" group-title="🎬 CINE Y SERIES",CINE | USA Network (1280x720) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29779
+
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="CINE | USA Network (1920x1080) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/usa.png" group-title="🎬 CINE Y SERIES",CINE | USA Network (1920x1080) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/76351
+
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="CINE | USA Network (960x540) ᵐˣ" tvg-logo="http://213.145.87.11/Logos/Cin3/usa.png" group-title="🎬 CINE Y SERIES",CINE | USA Network (960x540) ᵐˣ
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29833
+
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="CUL | Discovery Science (1280x720)" tvg-logo="http://213.145.87.11/Logos/Cultur4/discoveryscience.png" group-title="📚 DOCUMENTALES",CUL | Discovery Science (1280x720)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/57561
+
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="CUL | Discovery Science (1920x1080)" tvg-logo="http://213.145.87.11/Logos/Cultur4/discoveryscience.png" group-title="📚 DOCUMENTALES",CUL | Discovery Science (1920x1080)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77194
+
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="CUL | Discovery Science (960x540)" tvg-logo="http://213.145.87.11/Logos/Cultur4/discoveryscience.png" group-title="📚 DOCUMENTALES",CUL | Discovery Science (960x540)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29742
+
+#EXTINF:-1 tvg-id="discoverytheater.mx" tvg-name="CUL | Discovery Theater (1280x720)" tvg-logo="http://213.145.87.11/Logos/Cultur4/discoverytheater.png" group-title="📚 DOCUMENTALES",CUL | Discovery Theater (1280x720)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29743
+
+#EXTINF:-1 tvg-id="discoverytheater.mx" tvg-name="CUL | Discovery Theater (1920x1080)" tvg-logo="http://213.145.87.11/Logos/Cultur4/discoverytheater.png" group-title="📚 DOCUMENTALES",CUL | Discovery Theater (1920x1080)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/38336
+
+#EXTINF:-1 tvg-id="discoverytheater.mx" tvg-name="CUL | Discovery Theater (960x540)" tvg-logo="http://213.145.87.11/Logos/Cultur4/discoverytheater.png" group-title="📚 DOCUMENTALES",CUL | Discovery Theater (960x540)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/63923
+
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="CUL | Discovery TLC (1280x720)" tvg-logo="http://213.145.87.11/Logos/Cultur4/discoverytlc.png" group-title="📚 DOCUMENTALES",CUL | Discovery TLC (1280x720)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/62749
+
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="CUL | Discovery TLC (1920x1080)" tvg-logo="http://213.145.87.11/Logos/Cultur4/discoverytlc.png" group-title="📚 DOCUMENTALES",CUL | Discovery TLC (1920x1080)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/39949
+
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="CUL | Discovery TLC (832x468)" tvg-logo="http://213.145.87.11/Logos/Cultur4/discoverytlc.png" group-title="📚 DOCUMENTALES",CUL | Discovery TLC (832x468)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/39950
+
+#EXTINF:-1 tvg-id="clarosports2.mx" tvg-name="DEP | Claro Sports 2 HD (CO)" tvg-logo="https://od.lk/s/MzlfNDMzMDYyODVf/clarosports2co.png" group-title="⚽ DEPORTES",DEP | Claro Sports 2 HD (CO)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/174645
+
+#EXTINF:-1 tvg-id="clarosports.mx" tvg-name="DEP | Claro Sports FHD (CO)" tvg-logo="https://od.lk/s/MzlfNDMzMDYzMzZf/clarosportsco.png" group-title="⚽ DEPORTES",DEP | Claro Sports FHD (CO)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/155046
+
+#EXTINF:-1 tvg-id="clarosports.mx" tvg-name="DEP | Claro Sports HD (CO)" tvg-logo="https://od.lk/s/MzlfNDMzMDYzMzZf/clarosportsco.png" group-title="⚽ DEPORTES",DEP | Claro Sports HD (CO)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30234
+
+#EXTINF:-1 tvg-id="MX | MX - ESPN 2" tvg-name="DEP | ESPN 2 FHD" tvg-logo="https://od.lk/s/MzlfNDMzNjg2Njlf/espn2mx.png" group-title="⚽ DEPORTES",DEP | ESPN 2 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29749
+
+#EXTINF:-1 tvg-id="MX | MX - ESPN 2" tvg-name="DEP | ESPN 2 HD" tvg-logo="https://od.lk/s/MzlfNDMzNjg2Njlf/espn2mx.png" group-title="⚽ DEPORTES",DEP | ESPN 2 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/72166
+
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="DEP | ESPN 2 SD" tvg-logo="https://od.lk/s/MzlfNDMzNjg2Njlf/espn2mx.png" group-title="⚽ DEPORTES",DEP | ESPN 2 SD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/59686
+
+#EXTINF:-1 tvg-id="MX | MX - ESPN 3" tvg-name="DEP | ESPN 3 FHD" tvg-logo="https://od.lk/s/MzlfNDMzNjg2NzJf/espn3mx.png" group-title="⚽ DEPORTES",DEP | ESPN 3 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29750
+
+#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" tvg-name="DEP | ESPN 4 FHD" tvg-logo="https://od.lk/s/MzlfNDMzNzAxMTlf/espn4mx.png" group-title="⚽ DEPORTES",DEP | ESPN 4 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29789
+
+#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" tvg-name="DEP | ESPN 4 HD" tvg-logo="https://od.lk/s/MzlfNDMzNzAxMTlf/espn4mx.png" group-title="⚽ DEPORTES",DEP | ESPN 4 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/76987
+
+#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" tvg-name="DEP | ESPN 4 SD" tvg-logo="https://od.lk/s/MzlfNDMzNzAxMTlf/espn4mx.png" group-title="⚽ DEPORTES",DEP | ESPN 4 SD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/61372
+
+#EXTINF:-1 tvg-id="MX | MX - FOX Sports 3" tvg-name="DEP | ESPN 6 HD (CO)" tvg-logo="https://od.lk/s/MzlfNDMzNjg2Nzhf/espn6co.png" group-title="⚽ DEPORTES",DEP | ESPN 6 HD (CO)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29762
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="DEP | ESPN HD" tvg-logo="https://od.lk/s/MzlfNDMzNjg2ODRf/espnmx.png" group-title="⚽ DEPORTES",DEP | ESPN HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/61373
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN SD" tvg-logo="https://od.lk/s/MzlfNDMzNjg2ODRf/espnmx.png" group-title="⚽ DEPORTES",DEP | ESPN SD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/147277
+
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="DEP | Fox Sports 2 HD" tvg-logo="https://od.lk/s/MzlfNDMzNzEzODFf/foxsports2mx.png" group-title="⚽ DEPORTES",DEP | Fox Sports 2 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29761
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP | FOX Sports FHD" tvg-logo="" group-title="⚽ DEPORTES",DEP | FOX Sports FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/258271
+
+#EXTINF:-1 tvg-id="ARG | AR - FOX Sports HD" tvg-name="DEP | Fox Sports HD (ARG)" tvg-logo="https://od.lk/s/MzlfNDMzNzEzODJf/foxsportsar.png" group-title="⚽ DEPORTES ARG",DEP | Fox Sports HD (ARG)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/63152
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP | FOX Sports HD" tvg-logo="" group-title="⚽ DEPORTES",DEP | FOX Sports HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/258272
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="DEP | Fox Sports Premium" tvg-logo="https://od.lk/s/MzlfNDMzNzEzODRf/foxsportspremiummx.png" group-title="⚽ DEPORTES",DEP | Fox Sports Premium
+http://www.1play.cool:25461/fmromero21/2fede79dc3/79180
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="DEP | Fox Sports Premium FHD" tvg-logo="https://od.lk/s/MzlfNDMzNzEzODRf/foxsportspremiummx.png" group-title="⚽ DEPORTES",DEP | Fox Sports Premium FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/79179
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="DEP | Fox Sports Premium HD" tvg-logo="https://od.lk/s/MzlfNDMzNzEzODRf/foxsportspremiummx.png" group-title="⚽ DEPORTES",DEP | Fox Sports Premium HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29760
+
+#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-name="DEP | TUDN" tvg-logo="https://od.lk/s/MzlfNDMzNzE0MDVf/tudnmx.png" group-title="⚽ DEPORTES",DEP | TUDN
+http://www.1play.cool:25461/fmromero21/2fede79dc3/35529
+
+#EXTINF:-1 tvg-id="I858.111945.zap2it.com" tvg-name="DEP | Zona TUDN" tvg-logo="https://od.lk/s/MzlfNDMzNzE0MDhf/zonatudnus.png" group-title="⚽ DEPORTES",DEP | Zona TUDN
+http://www.1play.cool:25461/fmromero21/2fede79dc3/78280
+
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES | 24 Horas HD" tvg-logo="http://209.126.82.213/1000/Spain/24HORAS.png" group-title="🇦🇷 TV ARGENTINA",ES | 24 Horas HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/126765
+
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="HON | Azteca Honduras" tvg-logo="http://209.126.82.213/Honduras/azteca_hon.png" group-title="🇲🇽 TV MEXICO",HON | Azteca Honduras
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30292
+
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E HD" tvg-logo="http://209.126.82.213/MX/ae_mx.png" group-title="🎬 CINE Y SERIES",A&E HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151316
+
+#EXTINF:-1 tvg-id="MX - A+" tvg-name="A+ HD" tvg-logo="http://209.126.82.213/MX/amas_mx.png" group-title="🇲🇽 TV MEXICO",A+ HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151321
+
+#EXTINF:-1 tvg-id="I31.82808.schedulesdirect.org" tvg-name="A3Series Int HD" tvg-logo="http://209.126.82.213/MX/a3cine_mx.png" group-title="🇲🇽 TV MEXICO",A3Series Int HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151318
+
+#EXTINF:-1 tvg-id="I9.15384.schedulesdirect.org" tvg-name="Adrenalina HD" tvg-logo="http://209.126.82.213/MX/adn40_mx.png" group-title="🇲🇽 TV MEXICO",Adrenalina HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77088
+
+#EXTINF:-1 tvg-id="MX - AMC HD" tvg-name="AMC HD" tvg-logo="http://209.126.82.213/MX/amc_mx.png" group-title="🎬 CINE Y SERIES",AMC HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133848
+
+#EXTINF:-1 tvg-id="CL - AMC" tvg-name="AMC FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_amc.png" group-title="🎬 CINE Y SERIES",AMC FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151320
+
+#EXTINF:-1 tvg-id="MX - Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://209.126.82.213/MX/animalplanet_mx.png" group-title="📚 DOCUMENTALES",Animal Planet HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151417
+
+#EXTINF:-1 tvg-id="MX - AXN" tvg-name="AXN HD" tvg-logo="http://209.126.82.213/MX/axn_mx.png" group-title="🎬 CINE Y SERIES",AXN HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133853
+
+#EXTINF:-1 tvg-id="" tvg-name="AYM Sports HD" tvg-logo="" group-title="🇲🇽 TV MEXICO",AYM Sports HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/161349
+
+#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-name="Azteca 7 HD" tvg-logo="http://209.126.82.213/MX/azteca7_mx.png" group-title="🇲🇽 TV MEXICO",Azteca 7 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/59742
+
+#EXTINF:-1 tvg-id="MX - Azteca 7" tvg-name="Azteca 7" tvg-logo="http://209.126.82.213/MX/azteca7_mx.png" group-title="🇲🇽 TV MEXICO",Azteca 7
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133869
+
+#EXTINF:-1 tvg-id="CL - Az Cinema" tvg-name="Azteca Cinema" tvg-logo="http://209.126.82.213/MX/azcinema_mx.png" group-title="🎬 CINE Y SERIES",Azteca Cinema
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151330
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Platino HD" tvg-logo="http://209.126.82.213/MX/azcinema_mx.png" group-title="🎬 CINE Y SERIES",Cinema Platino HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/147240
+
+#EXTINF:-1 tvg-id="I155.92197.schedulesdirect.org" tvg-name="Azteca Clic HD" tvg-logo="http://209.126.82.213/MX/azclic_mx.png" group-title="🇲🇽 TV MEXICO",Azteca Clic HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151358
+
+#EXTINF:-1 tvg-id="MX - Az Corazón" tvg-name="Azteca Corazon HD" tvg-logo="http://209.126.82.213/MX/azcorazon_mx.png" group-title="🇲🇽 TV MEXICO",Azteca Corazon HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156795
+
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Deportes FHD" tvg-logo="http://209.126.82.213/MX/aztecadeportes_mx.png" group-title="⚽ DEPORTES",Azteca Deportes FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165098
+
+#EXTINF:-1 tvg-id="XHDF.Ciudad.de.México.(Azteca.Uno).DF.(AZUNO).mx" tvg-name="Azteca Uno FHD" tvg-logo="http://209.126.82.213/MX/aztecauno_mx.png" group-title="🇲🇽 TV MEXICO",Azteca Uno FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/39225
+
+#EXTINF:-1 tvg-id="XHDF.Ciudad.de.México.(Azteca.Uno).DF.(AZUNO).mx" tvg-name="Azteca Uno HD" tvg-logo="http://209.126.82.213/MX/aztecauno_mx.png" group-title="🇲🇽 TV MEXICO",Azteca Uno HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133876
+
+#EXTINF:-1 tvg-id="MX - Bandamax" tvg-name="Bandamax HD" tvg-logo="http://209.126.82.213/MX/bandamax_mx.png" group-title="🇲🇽 TV MEXICO",Bandamax HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151332
+
+#EXTINF:-1 tvg-id="BitMe.mx" tvg-name="BitMe HD" tvg-logo="http://209.126.82.213/MX/bitme_mx.png" group-title="🇲🇽 TV MEXICO",BitMe HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151333
+
+#EXTINF:-1 tvg-id="XEIMT.22.Nacional.(XEIMT).mx" tvg-name="Canal 22 FHD" tvg-logo="http://209.126.82.213/MX/canal22_mx.png" group-title="🇲🇽 TV MEXICO",Canal 22 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151335
+
+#EXTINF:-1 tvg-id="XHGTDT.mx" tvg-name="Canal 4 GDL" tvg-logo="http://209.126.82.213/MX/canal4_mx.png" group-title="🇲🇽 TV MEXICO",Canal 4 GDL
+http://www.1play.cool:25461/fmromero21/2fede79dc3/45944
+
+#EXTINF:-1 tvg-id="I857.66419.schedulesdirect.org" tvg-name="Canal 4 Televisa MTY" tvg-logo="http://209.126.82.213/MX/canal4_mx.png" group-title="🇲🇽 TV MEXICO",Canal 4 Televisa MTY
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151424
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 HD" tvg-logo="http://209.126.82.213/MX/canal5_mx.png" group-title="🇲🇽 TV MEXICO",Canal 5 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133870
+
+#EXTINF:-1 tvg-id="MX - Canal Once" tvg-name="Canal Once" tvg-logo="http://209.126.82.213/MX/canalonce_mx.png" group-title="🇲🇽 TV MEXICO",Canal Once
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151341
+
+#EXTINF:-1 tvg-id="MX - Canal Once" tvg-name="Canal Once HD" tvg-logo="http://209.126.82.213/MX/canalonce_mx.png" group-title="🇲🇽 TV MEXICO",Canal Once HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133872
+
+#EXTINF:-1 tvg-id="MX - Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="http://209.126.82.213/MX/cartoonnetwork_mx.png" group-title="👶 INFANTIL",Cartoon Network HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133858
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_cinecanal.png" group-title="🎬 CINE Y SERIES",Cinecanal HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156518
+
+#EXTINF:-1 tvg-id="" tvg-name="CineLatino HD" tvg-logo="" group-title="🎬 CINE Y SERIES",CineLatino HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151345
+
+#EXTINF:-1 tvg-id="MX - Cinemax" tvg-name="Cinemax HD" tvg-logo="http://209.126.82.213/MX/cinemax_mx.png" group-title="🎬 CINE Y SERIES",Cinemax HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133879
+
+#EXTINF:-1 tvg-id="Claro Sports" tvg-name="Claro Sports HD" tvg-logo="http://209.126.82.213/MX/clarosports_mx.png" group-title="⚽ DEPORTES",Claro Sports HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151348
+
+#EXTINF:-1 tvg-id="PE - CNN en Español" tvg-name="CNN Espanol" tvg-logo="http://209.126.82.213/MX/cnnespanol_mx.png" group-title="🇲🇽 TV MEXICO",CNN Espanol
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151371
+
+#EXTINF:-1 tvg-id="MX - Comedy Central" tvg-name="Comedy Central HD" tvg-logo="http://209.126.82.213/MX/comedycentral_mx.png" group-title="🇲🇽 TV MEXICO",Comedy Central HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151351
+
+#EXTINF:-1 tvg-id="MX - De Película HD" tvg-name="De Pelicula FHD" tvg-logo="http://209.126.82.213/MX/dpelicula_mx.png" group-title="🇲🇽 TV MEXICO",De Pelicula FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133885
+
+#EXTINF:-1 tvg-id="MX - Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="http://209.126.82.213/MX/discovery_mx.png" group-title="📚 DOCUMENTALES",Discovery Channel HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133855
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://209.126.82.213/logos/mx_discovery_hh.png" group-title="📚 DOCUMENTALES",Discovery Home & Health HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151355
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD" tvg-logo="" group-title="📚 DOCUMENTALES",Discovery ID HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151356
+
+#EXTINF:-1 tvg-id="MX - Discovery Kids" tvg-name="Discovery Kids HD" tvg-logo="http://209.126.82.213/MX/discoverykids_mx.png" group-title="👶 INFANTIL",Discovery Kids HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133886
+
+#EXTINF:-1 tvg-id="CL - Discovery Science" tvg-name="Discovery Science HD" tvg-logo="http://209.126.82.213/MX/discoveryscience_mx.png" group-title="📚 DOCUMENTALES",Discovery Science HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133887
+
+#EXTINF:-1 tvg-id="MX - Disney Channel" tvg-name="Disney Channel" tvg-logo="http://209.126.82.213/MX/disney_mx.png" group-title="👶 INFANTIL",Disney Channel
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133880
+
+#EXTINF:-1 tvg-id="MX - Disney Junior" tvg-name="Disney Junior HD" tvg-logo="http://209.126.82.213/MX/disneyjunior_mx.png" group-title="👶 INFANTIL",Disney Junior HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133888
+
+#EXTINF:-1 tvg-id="MX - Distrito Comedia" tvg-name="Distrito Comedia FHD" tvg-logo="http://209.126.82.213/MX/distritocomedia_mx.png" group-title="🇲🇽 TV MEXICO",Distrito Comedia FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/58184
+
+#EXTINF:-1 tvg-id="I201.55980.schedulesdirect.org" tvg-name="Distrito Comedia HD" tvg-logo="http://209.126.82.213/MX/distritocomedia_mx.png" group-title="🇲🇽 TV MEXICO",Distrito Comedia HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77091
+
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks HD" tvg-logo="http://209.126.82.213/MX/dreamworks_mx.png" group-title="🇲🇽 TV MEXICO",DreamWorks HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151372
+
+#EXTINF:-1 tvg-id="MX - E!" tvg-name="E! Entertainment HD" tvg-logo="http://209.126.82.213/MX/entertaiment_mx.png" group-title="🇲🇽 TV MEXICO",E! Entertainment HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151377
+
+#EXTINF:-1 tvg-id="MX - El Financiero Bloomberg" tvg-name="El Finaciero HD" tvg-logo="http://209.126.82.213/MX/elfinanciero_mx.png" group-title="🇲🇽 TV MEXICO",El Finaciero HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151378
+
+#EXTINF:-1 tvg-id="CO - elgourmet" tvg-name="El Gourmet HD" tvg-logo="http://209.126.82.213/MX/elgourmet_mx.png" group-title="🇲🇽 TV MEXICO",El Gourmet HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151402
+
+#EXTINF:-1 tvg-id="MX - El Nu9ve" tvg-name="El Nu9ve FHD" tvg-logo="http://209.126.82.213/MX/canal9_mx.png" group-title="🇲🇽 TV MEXICO",El Nu9ve FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133871
+
+#EXTINF:-1 tvg-id="MX - El Nu9ve" tvg-name="El Nu9ve HD" tvg-logo="http://209.126.82.213/MX/canal9_mx.png" group-title="🇲🇽 TV MEXICO",El Nu9ve HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/129885
+
+#EXTINF:-1 tvg-id="MX | MX - ESPN" tvg-name="ESPN 2 HD" tvg-logo="http://209.126.82.213/MX/espn2_mx.png" group-title="⚽ DEPORTES",ESPN 2 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133864
+
+#EXTINF:-1 tvg-id="MX | MX - ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="http://209.126.82.213/MX/espn3_mx.png" group-title="⚽ DEPORTES",ESPN 3 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133865
+
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa HD" tvg-logo="" group-title="🎬 CINE Y SERIES",Europa Europa HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151383
+
+#EXTINF:-1 tvg-id="MX - Film&Arts" tvg-name="Film and Arts HD" tvg-logo="http://209.126.82.213/MX/filmandarts_mx.png" group-title="🎬 CINE Y SERIES",Film and Arts HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151387
+
+#EXTINF:-1 tvg-id="MX - FOROtv" tvg-name="Foro TV FHD" tvg-logo="http://209.126.82.213/MX/forotv_mx.png" group-title="🇲🇽 TV MEXICO",Foro TV FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/63156
+
+#EXTINF:-1 tvg-id="MX | MX - FOX Sports" tvg-name="Fox Sports HD" tvg-logo="http://209.126.82.213/MX/foxsports_mx.png" group-title="⚽ DEPORTES",Fox Sports HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133866
+
+#EXTINF:-1 tvg-id="MX | MX - FOX Sports 2" tvg-name="Fox Sports 2 HD" tvg-logo="http://209.126.82.213/MX/foxsports2_mx.png" group-title="⚽ DEPORTES",Fox Sports 2 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133867
+
+#EXTINF:-1 tvg-id="MX | MX - FOX Sports 3" tvg-name="Fox Sports 3 HD" tvg-logo="http://209.126.82.213/MX/foxsports3_mx.png" group-title="⚽ DEPORTES",Fox Sports 3 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133868
+
+#EXTINF:-1 tvg-id="MX - FX" tvg-name="FX HD" tvg-logo="http://209.126.82.213/MX/fx_mx.png" group-title="🎬 CINE Y SERIES",FX HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133838
+
+#EXTINF:-1 tvg-id="MX - Golden Edge" tvg-name="Golden Edge HD" tvg-logo="http://209.126.82.213/MX/goldenedge_mx.png" group-title="🎬 CINE Y SERIES",Golden Edge HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151399
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo.png" group-title="🎬 CINE Y SERIES",HBO HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156543
+
+#EXTINF:-1 tvg-id="MX - HBO HD" tvg-name="HBO FHD" tvg-logo="http://209.126.82.213/MX/hbo_mx.png" group-title="🎬 CINE Y SERIES",HBO FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133840
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo2.png" group-title="🎬 CINE Y SERIES",HBO 2 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156542
+
+#EXTINF:-1 tvg-id="MX - HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://209.126.82.213/MX/hbo2_mx.png" group-title="🎬 CINE Y SERIES",HBO 2 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151405
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="" group-title="🎬 CINE Y SERIES",HBO Family FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/161354
+
+#EXTINF:-1 tvg-id="MX - HBO Family" tvg-name="HBO Family HD" tvg-logo="http://209.126.82.213/MX/hbofamily_mx.png" group-title="🎬 CINE Y SERIES",HBO Family HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133845
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi HD" tvg-logo="" group-title="🎬 CINE Y SERIES",HBO Mundi HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/161355
+
+#EXTINF:-1 tvg-id="MX - Max" tvg-name="HBO Mundi FHD" tvg-logo="http://209.126.82.213/MX/hbomundi_mx.png" group-title="🎬 CINE Y SERIES",HBO Mundi FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133844
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo_plus.png" group-title="🎬 CINE Y SERIES",HBO Plus FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156544
+
+#EXTINF:-1 tvg-id="MX - HBO Plus México" tvg-name="HBO Plus HD" tvg-logo="http://209.126.82.213/MX/hboplus_mx.png" group-title="🎬 CINE Y SERIES",HBO Plus HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133846
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop HD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo_pop.png" group-title="🎬 CINE Y SERIES",HBO Pop HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156545
+
+#EXTINF:-1 tvg-id="MX - Max Prime México" tvg-name="HBO Pop FHD" tvg-logo="http://209.126.82.213/MX/hbopop_mx.png" group-title="🎬 CINE Y SERIES",HBO Pop FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133854
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo_signature.png" group-title="🎬 CINE Y SERIES",HBO Signature HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156546
+
+#EXTINF:-1 tvg-id="AR - HBO Signature HD" tvg-name="HBO Signature" tvg-logo="http://209.126.82.213/MX/hbosignature_mx.png" group-title="🎬 CINE Y SERIES",HBO Signature
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133841
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme HD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo_xtreme.png" group-title="🎬 CINE Y SERIES",HBO Xtreme HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156547
+
+#EXTINF:-1 tvg-id="CO - max UP" tvg-name="HBO Xtreme FHD" tvg-logo="http://209.126.82.213/MX/hboxtreme_mx.png" group-title="🎬 CINE Y SERIES",HBO Xtreme FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133843
+
+#EXTINF:-1 tvg-id="I370.111055.schedulesdirect.org" tvg-name="HGTV HD" tvg-logo="http://209.126.82.213/MX/hgtv_mx.png" group-title="🇲🇽 TV MEXICO",HGTV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151393
+
+#EXTINF:-1 tvg-id="CO - H2" tvg-name="History 2 HD" tvg-logo="http://209.126.82.213/MX/history2_mx.png" group-title="📚 DOCUMENTALES",History 2 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133857
+
+#EXTINF:-1 tvg-id="MX - History HD" tvg-name="History Channel HD" tvg-logo="http://209.126.82.213/MX/history_mx.png" group-title="📚 DOCUMENTALES",History Channel HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133856
+
+#EXTINF:-1 tvg-id="CO - HOLA TV HD" tvg-name="Hola TV HD" tvg-logo="http://209.126.82.213/MX/holatv_mx.png" group-title="🇲🇽 TV MEXICO",Hola TV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151413
+
+#EXTINF:-1 tvg-id="I384.101096.schedulesdirect.org" tvg-name="Imagen TV HD" tvg-logo="http://209.126.82.213/MX/imagen_mx.png" group-title="🇲🇽 TV MEXICO",Imagen TV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/60794
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Platino 2" tvg-logo="" group-title="🎬 CINE Y SERIES",Cinema Platino 2
+http://www.1play.cool:25461/fmromero21/2fede79dc3/161356
+
+#EXTINF:-1 tvg-id="MX - Las Estrellas" tvg-name="Las Estrellas -2hrs" tvg-logo="http://209.126.82.213/MX/canallasestrellas_mx.png" group-title="🇲🇽 TV MEXICO",Las Estrellas -2hrs
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151334
+
+#EXTINF:-1 tvg-id="MX - Las Estrellas" tvg-name="Las Estrellas HD" tvg-logo="http://209.126.82.213/MX/canallasestrellas_mx.png" group-title="🇲🇽 TV MEXICO",Las Estrellas HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/73316
+
+#EXTINF:-1 tvg-id="MX - Cinemax" tvg-name="Telehit Musica" tvg-logo="http://209.126.82.213/MX/canallasestrellas_mx.png" group-title="🇲🇽 TV MEXICO",Telehit Musica
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151347
+
+#EXTINF:-1 tvg-id="CO - Lifetime" tvg-name="Lifetime HD" tvg-logo="http://209.126.82.213/MX/lifetime_mx.png" group-title="🎬 CINE Y SERIES",Lifetime HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151420
+
+#EXTINF:-1 tvg-id="MX - Más Chic" tvg-name="MasChic" tvg-logo="http://209.126.82.213/MX/maschic_mx.png" group-title="🇲🇽 TV MEXICO",MasChic
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151390
+
+#EXTINF:-1 tvg-id="I668.28440.schedulesdirect.org" tvg-name="Mexiquince HD" tvg-logo="http://209.126.82.213/MX/mexiquense_mx.png" group-title="🇲🇽 TV MEXICO",Mexiquince HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77102
+
+#EXTINF:-1 tvg-id="I424.61719.schedulesdirect.org" tvg-name="Milenio TV FHD" tvg-logo="http://209.126.82.213/MX/milenio_mx.png" group-title="🇲🇽 TV MEXICO",Milenio TV FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/59774
+
+#EXTINF:-1 tvg-id="MX - Milenio TV" tvg-name="Milenio TV HD" tvg-logo="http://209.126.82.213/MX/milenio_mx.png" group-title="🇲🇽 TV MEXICO",Milenio TV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151422
+
+#EXTINF:-1 tvg-id="I336.22561.zap2it.com" tvg-name="MTV Classic HD" tvg-logo="http://209.126.82.213/MX/mtvclassic_mx.png" group-title="🇲🇽 TV MEXICO",MTV Classic HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151439
+
+#EXTINF:-1 tvg-id="MX - National Geographic" tvg-name="National Geographic HD" tvg-logo="http://209.126.82.213/MX/national_mx.png" group-title="📚 DOCUMENTALES",National Geographic HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151425
+
+#EXTINF:-1 tvg-id="I498.72625.schedulesdirect.org" tvg-name="PX Sports" tvg-logo="http://209.126.82.213/MX/pxsports_mx.png" group-title="🇲🇽 TV MEXICO",PX Sports
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151426
+
+#EXTINF:-1 tvg-id="MX - Sony HD" tvg-name="Sony Channel HD" tvg-logo="http://209.126.82.213/MX/sony_mx.png" group-title="🎬 CINE Y SERIES",Sony Channel HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133847
+
+#EXTINF:-1 tvg-id="MX - Space" tvg-name="Space HD" tvg-logo="http://209.126.82.213/MX/space_mx.png" group-title="🎬 CINE Y SERIES",Space HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133861
+
+#EXTINF:-1 tvg-id="MX - FOX" tvg-name="Star Channel HD" tvg-logo="http://209.126.82.213/MX/starchannel_mx.png" group-title="🎬 CINE Y SERIES",Star Channel HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133842
+
+#EXTINF:-1 tvg-id="MX - Studio Universal" tvg-name="Studio Universal HD" tvg-logo="http://209.126.82.213/MX/studiouniversal_mx.png" group-title="🎬 CINE Y SERIES",Studio Universal HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133884
+
+#EXTINF:-1 tvg-id="MX - Syfy" tvg-name="SyFy FHD" tvg-logo="http://209.126.82.213/MX/syfy_mx.png" group-title="🇲🇽 TV MEXICO",SyFy FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133878
+
+#EXTINF:-1 tvg-id="MX - TBS" tvg-name="TBS HD" tvg-logo="http://209.126.82.213/MX/tbs_mx.png" group-title="🇲🇽 TV MEXICO",TBS HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151450
+
+#EXTINF:-1 tvg-id="MX - TCM" tvg-name="TCM HD" tvg-logo="http://209.126.82.213/MX/tcm_mx.png" group-title="🎬 CINE Y SERIES",TCM HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151451
+
+#EXTINF:-1 tvg-id="MX - Telehit" tvg-name="Telehit HD" tvg-logo="http://209.126.82.213/MX/telehit_mx.png" group-title="🇲🇽 TV MEXICO",Telehit HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151452
+
+#EXTINF:-1 tvg-id="XEFBTDT.mx" tvg-name="Televisa Monterrey" tvg-logo="http://209.126.82.213/MX/televisa_mx.png" group-title="🇲🇽 TV MEXICO",Televisa Monterrey
+http://www.1play.cool:25461/fmromero21/2fede79dc3/77103
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Cine Mexicano" tvg-logo="http://209.126.82.213/MX/televisa_mx.png" group-title="🎬 CINE Y SERIES",Cine Mexicano
+http://www.1play.cool:25461/fmromero21/2fede79dc3/39226
+
+#EXTINF:-1 tvg-id="MX - TNT HD" tvg-name="TNT FHD" tvg-logo="http://209.126.82.213/MX/tnt_mx.png" group-title="🎬 CINE Y SERIES",TNT FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133859
+
+#EXTINF:-1 tvg-id="CO - TNT Series" tvg-name="TNT Series HD" tvg-logo="http://209.126.82.213/MX/tntseries_mx.png" group-title="🎬 CINE Y SERIES",TNT Series HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133860
+
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="http://209.126.82.213/MX/tooncast_mx.png" group-title="🇲🇽 TV MEXICO",Tooncast HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151446
+
+#EXTINF:-1 tvg-id="MX - truTV HD" tvg-name="Tru TV HD" tvg-logo="http://209.126.82.213/MX/trutv_mx.png" group-title="🇲🇽 TV MEXICO",Tru TV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151461
+
+#EXTINF:-1 tvg-id="Canal.TVC.Deportes.mx" tvg-name="TVC Deportes FHD" tvg-logo="http://209.126.82.213/MX/tvcdeportes_mx.png" group-title="⚽ DEPORTES",TVC Deportes FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/61861
+
+#EXTINF:-1 tvg-id="Canal.TVC.Deportes.mx" tvg-name="TVC Deportes HD" tvg-logo="http://209.126.82.213/MX/tvcdeportes_mx.png" group-title="⚽ DEPORTES",TVC Deportes HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151459
+
+#EXTINF:-1 tvg-id="I682.84425.schedulesdirect.org" tvg-name="Unicable FHD" tvg-logo="http://209.126.82.213/MX/unicable_mx.png" group-title="🇲🇽 TV MEXICO",Unicable FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/40979
+
+#EXTINF:-1 tvg-id="CL - Unicable" tvg-name="Unicable HD" tvg-logo="http://209.126.82.213/MX/unicable_mx.png" group-title="🇲🇽 TV MEXICO",Unicable HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151464
+
+#EXTINF:-1 tvg-id="MX - Universal Channel" tvg-name="Universal Channel HD" tvg-logo="http://209.126.82.213/MX/universal_mx.png" group-title="🎬 CINE Y SERIES",Universal Channel HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151466
+
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="Universal Cinema HD" tvg-logo="http://209.126.82.213/MX/universalcinema_mx.png" group-title="🎬 CINE Y SERIES",Universal Cinema HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151457
+
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="Universal Crime HD" tvg-logo="http://209.126.82.213/MX/universalcrime_mx.png" group-title="🎬 CINE Y SERIES",Universal Crime HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151462
+
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="Universal Premier West HD" tvg-logo="http://209.126.82.213/MX/universalpremiere_mx.png" group-title="🎬 CINE Y SERIES",Universal Premier West HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151454
+
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="Universal Reality HD" tvg-logo="http://209.126.82.213/MX/universalreality_mx.png" group-title="🎬 CINE Y SERIES",Universal Reality HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151453
+
+#EXTINF:-1 tvg-id="I9.15384.schedulesdirect.org" tvg-name="ADN 40 FHD" tvg-logo="http://209.126.82.213/MX/adn40_mx.png" group-title="🇲🇽 TV MEXICO",ADN 40 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29959
+
+#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="Azteca Clic FHD" tvg-logo="http://209.126.82.213/MX/azclic_mx.png" group-title="🇲🇽 TV MEXICO",Azteca Clic FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29962
+
+#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-name="Azteca 7 FHD" tvg-logo="http://209.126.82.213/MX/azteca7_mx.png" group-title="🇲🇽 TV MEXICO",Azteca 7 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29965
+
+#EXTINF:-1 tvg-id="MX - Las Estrellas" tvg-name="Las Estrellas FHD" tvg-logo="http://209.126.82.213/MX/canallasestrellas_mx.png" group-title="🇲🇽 TV MEXICO",Las Estrellas FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30321
+
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Deportes HD" tvg-logo="" group-title="⚽ DEPORTES",Azteca Deportes HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/293017
+
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Deportes" tvg-logo="" group-title="⚽ DEPORTES",Azteca Deportes
+http://www.1play.cool:25461/fmromero21/2fede79dc3/293018
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="" group-title="📚 DOCUMENTALES",Discovery Theater HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/293019
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="" group-title="📚 DOCUMENTALES",Discovery Turbo HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/293020
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="⚽ DEPORTES",ESPN HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/293021
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="" group-title="⚽ DEPORTES",ESPN 4 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/293022
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier HD" tvg-logo="" group-title="🎬 CINE Y SERIES",Golden Premier HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/293023
+
+#EXTINF:-1 tvg-id="" tvg-name="88.9 Noticias 88.9 FM" tvg-logo="" group-title="🇲🇽 TV MEXICO",88.9 Noticias 88.9 FM
+http://www.1play.cool:25461/fmromero21/2fede79dc3/194067
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Amor 95.3 FM" tvg-logo="" group-title="🇲🇽 TV MEXICO",Radio Amor 95.3 FM
+http://www.1play.cool:25461/fmromero21/2fede79dc3/194069
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Baladas viejitas pero bonitas" tvg-logo="" group-title="🇲🇽 TV MEXICO",Radio Baladas viejitas pero bonitas
+http://www.1play.cool:25461/fmromero21/2fede79dc3/194071
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Felicidad 1180 AM" tvg-logo="" group-title="🇲🇽 TV MEXICO",Radio Felicidad 1180 AM
+http://www.1play.cool:25461/fmromero21/2fede79dc3/194070
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio La Romántica 92.9 FM" tvg-logo="" group-title="🇲🇽 TV MEXICO",Radio La Romántica 92.9 FM
+http://www.1play.cool:25461/fmromero21/2fede79dc3/194068
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio México Internacional" tvg-logo="" group-title="🇲🇽 TV MEXICO",Radio México Internacional
+http://www.1play.cool:25461/fmromero21/2fede79dc3/194066
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novela" tvg-logo="" group-title="🎬 CINE Y SERIES",TNT Novela
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30549
+
+#EXTINF:-1 tvg-id="" tvg-name="40 y 20" tvg-logo="https://images.vix.com/prd/channel/6487380bc436df2859e5d2a2/40cca8d54d603fedefa2eaa35a229563" group-title="🇦🇷 TV ARGENTINA",40 y 20
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165352
+
+#EXTINF:-1 tvg-id="" tvg-name="Amor Real" tvg-logo="https://images.vix.com/prd/channel/63725ab167207e64e143e70f/ad4d5ad2dd52d6519d673d3a939d79b7" group-title="🇦🇷 TV ARGENTINA",Amor Real
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165354
+
+#EXTINF:-1 tvg-id="" tvg-name="Camino al Cielo" tvg-logo="https://images.vix.com/prd/channel/6234966459579b8050a2096c/d39fda882d6e25841d096e4662d21404" group-title="🇦🇷 TV ARGENTINA",Camino al Cielo
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165358
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine de Oro" tvg-logo="" group-title="🎬 CINE Y SERIES",Cine de Oro
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165360
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Estrella TV" tvg-logo="" group-title="🎬 CINE Y SERIES",Cine Estrella TV
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165384
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Retro" tvg-logo="https://images.vix.com/prd/channel/626f670e87ec596207ee66e6/c45f4431d1a7233604ffd0127439735d" group-title="🎬 CINE Y SERIES",Cine Retro
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165374
+
+#EXTINF:-1 tvg-id="" tvg-name="Como Dice el Dicho" tvg-logo="" group-title="🇦🇷 TV ARGENTINA",Como Dice el Dicho
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165363
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Vault Clasicos" tvg-logo="https://images.vix.com/prd/channel/61f970bb602cef693b729fbc/09a46d15972a1b45ad51b1faf76cf21f" group-title="🎬 CINE Y SERIES",Cine Vault Clasicos
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165406
+
+#EXTINF:-1 tvg-id="" tvg-name="La Rosa de Guadalupe" tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69" group-title="🇦🇷 TV ARGENTINA",La Rosa de Guadalupe
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165397
+
+#EXTINF:-1 tvg-id="" tvg-name="Latino Cinema" tvg-logo="" group-title="🎬 CINE Y SERIES",Latino Cinema
+http://www.1play.cool:25461/fmromero21/2fede79dc3/176510
+
+#EXTINF:-1 tvg-id="" tvg-name="Mi Corazon es tuyo" tvg-logo="" group-title="🇦🇷 TV ARGENTINA",Mi Corazon es tuyo
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165407
+
+#EXTINF:-1 tvg-id="" tvg-name="Nosotros los Guapos" tvg-logo="" group-title="🇦🇷 TV ARGENTINA",Nosotros los Guapos
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165386
+
+#EXTINF:-1 tvg-id="" tvg-name="Novelas Familia" tvg-logo="https://images.vix.com/prd/channel/63720ca37f01814a79eb8505/a7502e1aa511219c23718e1830d0460f" group-title="🇦🇷 TV ARGENTINA",Novelas Familia
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165351
+
+#EXTINF:-1 tvg-id="" tvg-name="Novelas Romance" tvg-logo="https://images.vix.com/prd/channel/620b20270ca5e2a32d8c85ea/5acebdc9d97153430262775c741f4c4b" group-title="🇦🇷 TV ARGENTINA",Novelas Romance
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165368
+
+#EXTINF:-1 tvg-id="" tvg-name="Novelas Pasiones" tvg-logo="" group-title="🇦🇷 TV ARGENTINA",Novelas Pasiones
+http://www.1play.cool:25461/fmromero21/2fede79dc3/177155
+
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore" tvg-logo="" group-title="🇦🇷 TV ARGENTINA",Acapulco Shore
+http://www.1play.cool:25461/fmromero21/2fede79dc3/176511
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Hollywood" tvg-logo="" group-title="🎬 CINE Y SERIES",Cine Hollywood
+http://www.1play.cool:25461/fmromero21/2fede79dc3/177156
+
+#EXTINF:-1 tvg-id="" tvg-name="Vecinos" tvg-logo="https://images.vix.com/prd/channel/6209318522bbc72ac5ec12ee/ad895f26368f89f4b0a7786b97636891" group-title="🇦🇷 TV ARGENTINA",Vecinos
+http://www.1play.cool:25461/fmromero21/2fede79dc3/165433
+
