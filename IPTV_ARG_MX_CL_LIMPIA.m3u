@@ -1,0 +1,192 @@
+#EXTM3U
+# ===== 24H =====
+#EXTINF:-1 tvg-id="" tvg-name="24H | Chespirito" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="✔️ TV | 24 HORAS",24H | Chespirito
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266543
+#EXTINF:-1 tvg-id="" tvg-name="24H | El Chavo del 8" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="✔️ TV | 24 HORAS",24H | El Chavo del 8
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266546
+#EXTINF:-1 tvg-id="" tvg-name="24H | Los Simpsons FHD" tvg-logo="/247/simpson.png" group-title="✔️ TV | 24 HORAS",24H | Los Simpsons FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266612
+#EXTINF:-1 tvg-id="" tvg-name="24H | Los Simpsons Horror HD" tvg-logo="/247/simpsonsterror.png" group-title="✔️ TV | 24 HORAS",24H | Los Simpsons Horror HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266614
+#EXTINF:-1 tvg-id="" tvg-name="24H | Paw Patrol FHD" tvg-logo="/247/pawpatrol2.png" group-title="✔️ TV | 24 HORAS",24H | Paw Patrol FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266634
+#EXTINF:-1 tvg-id="" tvg-name="24H | Pedro el Escamoso" tvg-logo="https://dl.dropboxusercontent.com/s/9l2g4haedez7y37/laguardiadelleon.png" group-title="✔️ TV | 24 HORAS",24H | Pedro el Escamoso
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266591
+#EXTINF:-1 tvg-id="" tvg-name="24H | Pepa Pig" tvg-logo="/247/twd.png" group-title="✔️ TV | 24 HORAS",24H | Pepa Pig
+http://www.1play.cool:25461/fmromero21/2fede79dc3/266662
+# ===== TV ARG =====
+#EXTINF:-1 tvg-id="a24.ar" tvg-name="ARG | A24 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/a24.png" group-title="✔️ TV | ARGENTINA",ARG | A24 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163683
+#EXTINF:-1 tvg-id="america24.ar" tvg-name="ARG | America TV FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/americatv.png" group-title="✔️ TV | ARGENTINA",ARG | America TV FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29997
+#EXTINF:-1 tvg-id="c5n.ar" tvg-name="ARG | C5N FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/c5n.png" group-title="✔️ TV | ARGENTINA",ARG | C5N FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128753
+#EXTINF:-1 tvg-id="canal26.ar" tvg-name="ARG | Canal 26 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/canal26.png" group-title="✔️ TV | ARGENTINA",ARG | Canal 26 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/147248
+#EXTINF:-1 tvg-id="cinear.ar" tvg-name="ARG | CineAR HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/cinear.png" group-title="✔️ TV | ARGENTINA",ARG | CineAR HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29865
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Ciudad Magazine" tvg-logo="" group-title="✔️ TV | ARGENTINA",ARG | Ciudad Magazine
+http://www.1play.cool:25461/fmromero21/2fede79dc3/384340
+#EXTINF:-1 tvg-id="cronica.ar" tvg-name="ARG | Crónica TV HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/cronica.png" group-title="✔️ TV | ARGENTINA",ARG | Crónica TV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163694
+#EXTINF:-1 tvg-id="deportv.ar" tvg-name="ARG | Deportv FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/deportv.png" group-title="✔️ TV | ARGENTINA",ARG | Deportv FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29934
+#EXTINF:-1 tvg-id="canal9.ar" tvg-name="ARG | El Nueve HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/elnueve.png" group-title="✔️ TV | ARGENTINA",ARG | El Nueve HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163691
+#EXTINF:-1 tvg-id="eltrece.ar" tvg-name="ARG | El Trece FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/eltrece.png" group-title="✔️ TV | ARGENTINA",ARG | El Trece FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31258
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="ARG | Telefe FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/telefe.png" group-title="✔️ TV | ARGENTINA",ARG | Telefe FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163711
+#EXTINF:-1 tvg-id="AR - TN" tvg-name="ARG | TN Noticias" tvg-logo="http://213.145.87.11/Logos/4rgentina/tnnoticias.png" group-title="✔️ TV | ARGENTINA",ARG | TN Noticias
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29936
+#EXTINF:-1 tvg-id="tvpública.ar" tvg-name="ARG | TV Publica FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tvpublica.png" group-title="✔️ TV | ARGENTINA",ARG | TV Publica FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29864
+#EXTINF:-1 tvg-id="A.and.E.(Argentina).(A.and.E).ar" tvg-name="ARG | Net TV HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/nettv.png" group-title="✔️ TV | ARGENTINA",ARG | Net TV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128761
+#EXTINF:-1 tvg-id="A.and.E.(Argentina).(A.and.E).ar" tvg-name="ARG | La Nación + HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/lanacion.png" group-title="✔️ TV | ARGENTINA",ARG | La Nación + HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128760
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Multivision HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/multivision.png" group-title="✔️ TV | ARGENTINA",ARG | Multivision HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163707
+#EXTINF:-1 tvg-id="elgaragetv.ar" tvg-name="ARG | Garage TV" tvg-logo="http://213.145.87.11/Logos/4rgentina/garagetv.png" group-title="✔️ TV | ARGENTINA",ARG | Garage TV
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29983
+#EXTINF:-1 tvg-id="pakapaka.ar" tvg-name="ARG | Paka Paka HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/pakapaka.png" group-title="✔️ TV | ARGENTINA",ARG | Paka Paka HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29939
+#EXTINF:-1 tvg-id="" tvg-name="ARG | PX TV HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/pxsports.png" group-title="✔️ TV | ARGENTINA",ARG | PX TV HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163710
+#EXTINF:-1 tvg-id="volver.ar" tvg-name="ARG | Volver HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/volver.png" group-title="✔️ TV | ARGENTINA",ARG | Volver HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/60140
+# ===== DEPORTES =====
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ARG | ESPN FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128754
+#EXTINF:-1 tvg-id="espn1.ar" tvg-name="ARG | ESPN 2 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn2.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN 2 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163698
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ARG | ESPN 3 HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn3.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN 3 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163699
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 4 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espn4.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN 4 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/282345
+#EXTINF:-1 tvg-id="A.and.E.(Argentina).(A.and.E).ar" tvg-name="ARG | ESPN Premium FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/espnpremium.png" group-title="✔️ TV | ARGENTINA",ARG | ESPN Premium FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/78448
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="ARG | TNT Sports Premium FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tntsportpremium.png" group-title="✔️ TV | ARGENTINA",ARG | TNT Sports Premium FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31185
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="ARG | TyC Sports FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tycsports.png" group-title="✔️ TV | ARGENTINA",ARG | TyC Sports FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/69033
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="ARG | Fox Sports FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports.png" group-title="✔️ TV | ARGENTINA",ARG | Fox Sports FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/163705
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="ARG | Fox Sports 2 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports2.png" group-title="✔️ TV | ARGENTINA",ARG | Fox Sports 2 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/137713
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="ARG | Fox Sports 3 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/foxsports3.png" group-title="✔️ TV | ARGENTINA",ARG | Fox Sports 3 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/128759
+# ===== CINE / SERIES CANALES =====
+#EXTINF:-1 tvg-id="MX - HBO HD" tvg-name="MX | HBO FHD" tvg-logo="http://209.126.82.213/MX/hbo_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | HBO FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133840
+#EXTINF:-1 tvg-id="" tvg-name="MX | HBO 2 FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo2.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | HBO 2 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156542
+#EXTINF:-1 tvg-id="" tvg-name="MX | HBO Family FHD" tvg-logo="" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | HBO Family FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/161354
+#EXTINF:-1 tvg-id="" tvg-name="MX | HBO Plus FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo_plus.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | HBO Plus FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156544
+#EXTINF:-1 tvg-id="" tvg-name="MX | HBO Signature HD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo_signature.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | HBO Signature HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156546
+#EXTINF:-1 tvg-id="CO - max UP" tvg-name="MX | HBO Xtreme FHD" tvg-logo="http://209.126.82.213/MX/hboxtreme_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | HBO Xtreme FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133843
+#EXTINF:-1 tvg-id="MX - Space" tvg-name="MX | Space HD" tvg-logo="http://209.126.82.213/MX/space_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Space HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133861
+#EXTINF:-1 tvg-id="MX - FOX" tvg-name="MX | Star Channel HD" tvg-logo="http://209.126.82.213/MX/starchannel_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Star Channel HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133842
+#EXTINF:-1 tvg-id="MX - Cinemax" tvg-name="MX | Cinemax HD" tvg-logo="http://209.126.82.213/MX/cinemax_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Cinemax HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133879
+#EXTINF:-1 tvg-id="" tvg-name="MX | Cinecanal HD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_cinecanal.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Cinecanal HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/156518
+#EXTINF:-1 tvg-id="MX - Golden Edge" tvg-name="MX | Golden Edge HD" tvg-logo="http://209.126.82.213/MX/goldenedge_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Golden Edge HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151399
+#EXTINF:-1 tvg-id="" tvg-name="MX | Golden Premier HD" tvg-logo="" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Golden Premier HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/293023
+#EXTINF:-1 tvg-id="MX - Studio Universal" tvg-name="MX | Studio Universal HD" tvg-logo="http://209.126.82.213/MX/studiouniversal_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Studio Universal HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133884
+#EXTINF:-1 tvg-id="MX - Universal Channel" tvg-name="MX | Universal Channel HD" tvg-logo="http://209.126.82.213/MX/universal_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Universal Channel HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151466
+#EXTINF:-1 tvg-id="MX - Warner Channel" tvg-name="2MB | Warner Channel (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Nzdf/mx_warner.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Warner Channel (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/31145
+#EXTINF:-1 tvg-id="MX - FX" tvg-name="MX | FX HD" tvg-logo="http://209.126.82.213/MX/fx_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | FX HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133838
+#EXTINF:-1 tvg-id="MX - Sony HD" tvg-name="MX | Sony Channel HD" tvg-logo="http://209.126.82.213/MX/sony_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Sony Channel HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133847
+#EXTINF:-1 tvg-id="MX - TNT HD" tvg-name="MX | TNT FHD" tvg-logo="http://209.126.82.213/MX/tnt_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | TNT FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133859
+#EXTINF:-1 tvg-id="CO - TNT Series" tvg-name="MX | TNT Series HD" tvg-logo="http://209.126.82.213/MX/tntseries_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | TNT Series HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133860
+# ===== INFANTIL / OTROS =====
+#EXTINF:-1 tvg-id="MX - Cartoon Network" tvg-name="MX | Cartoon Network HD" tvg-logo="http://209.126.82.213/MX/cartoonnetwork_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Cartoon Network HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133858
+#EXTINF:-1 tvg-id="MX - Boomerang" tvg-name="2MB | Cartoonito (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE0ODRf/mx_cartoonito.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Cartoonito (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/30660
+#EXTINF:-1 tvg-id="MX - Discovery Kids" tvg-name="MX | Discovery Kids HD" tvg-logo="http://209.126.82.213/MX/discoverykids_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Discovery Kids HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133886
+#EXTINF:-1 tvg-id="MX - Disney Channel" tvg-name="MX | Disney Channel" tvg-logo="http://209.126.82.213/MX/disney_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Disney Channel
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133880
+#EXTINF:-1 tvg-id="CL - BabyTV" tvg-name="2MB | Baby TV (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1ODZf/mx_baby_tv.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Baby TV (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/59921
+# ===== INTERNACIONALES MX/CL =====
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="MX | A&E HD" tvg-logo="http://209.126.82.213/MX/ae_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | A&E HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151316
+#EXTINF:-1 tvg-id="CL - AMC" tvg-name="MX | AMC FHD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_amc.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | AMC FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151320
+#EXTINF:-1 tvg-id="MX - Animal Planet" tvg-name="MX | Animal Planet HD" tvg-logo="http://209.126.82.213/MX/animalplanet_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Animal Planet HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151417
+#EXTINF:-1 tvg-id="MX - AXN" tvg-name="MX | AXN HD" tvg-logo="http://209.126.82.213/MX/axn_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | AXN HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133853
+#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-name="MX | Azteca 7 FHD" tvg-logo="http://209.126.82.213/MX/azteca7_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Azteca 7 FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/29965
+#EXTINF:-1 tvg-id="XHDF.Ciudad.de.México.(Azteca.Uno).DF.(AZUNO).mx" tvg-name="MX | Azteca Uno FHD" tvg-logo="http://209.126.82.213/MX/aztecauno_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Azteca Uno FHD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/39225
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="MX | Canal 5 HD" tvg-logo="http://209.126.82.213/MX/canal5_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Canal 5 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133870
+#EXTINF:-1 tvg-id="PE - CNN en Español" tvg-name="MX | CNN Espanol" tvg-logo="http://209.126.82.213/MX/cnnespanol_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | CNN Espanol
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151371
+#EXTINF:-1 tvg-id="PE - CNN (EE.UU.)" tvg-name="2MB | CNN Internacional (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTRf/mx_cnn.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | CNN Internacional (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134292
+#EXTINF:-1 tvg-id="MX - Comedy Central" tvg-name="MX | Comedy Central HD" tvg-logo="http://209.126.82.213/MX/comedycentral_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Comedy Central HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151351
+#EXTINF:-1 tvg-id="MX - Discovery Channel" tvg-name="MX | Discovery Channel HD" tvg-logo="http://209.126.82.213/MX/discovery_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Discovery Channel HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133855
+#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Home & Health HD" tvg-logo="http://209.126.82.213/logos/mx_discovery_hh.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Discovery Home & Health HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151355
+#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Turbo HD" tvg-logo="" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Discovery Turbo HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/293020
+#EXTINF:-1 tvg-id="MX - Discovery World HD" tvg-name="2MB | Discovery World (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTlf/mx_discovery_world.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Discovery World (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/67192
+#EXTINF:-1 tvg-id="MX - E!" tvg-name="MX | E! Entertainment HD" tvg-logo="http://209.126.82.213/MX/entertaiment_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | E! Entertainment HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151377
+#EXTINF:-1 tvg-id="CO - elgourmet" tvg-name="MX | El Gourmet HD" tvg-logo="http://209.126.82.213/MX/elgourmet_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | El Gourmet HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151402
+#EXTINF:-1 tvg-id="" tvg-name="MX | Europa Europa HD" tvg-logo="" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Europa Europa HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151383
+#EXTINF:-1 tvg-id="MX - Film&Arts" tvg-name="MX | Film and Arts HD" tvg-logo="http://209.126.82.213/MX/filmandarts_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Film and Arts HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151387
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="2MB | Food Network (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MTNf/mx_food_network.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Food Network (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/61123
+#EXTINF:-1 tvg-id="MX - History HD" tvg-name="2MB | History (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE0ODdf/mx_history.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | History (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134301
+#EXTINF:-1 tvg-id="CO - H2" tvg-name="MX | History 2 HD" tvg-logo="http://209.126.82.213/MX/history2_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | History 2 HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/133857
+#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery ID HD" tvg-logo="" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Discovery ID HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151356
+#EXTINF:-1 tvg-id="CO - Lifetime" tvg-name="MX | Lifetime HD" tvg-logo="http://209.126.82.213/MX/lifetime_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | Lifetime HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151420
+#EXTINF:-1 tvg-id="MX - National Geographic" tvg-name="MX | National Geographic HD" tvg-logo="http://209.126.82.213/MX/national_mx.png" group-title="✔️ TV | CANALES LATINOS MEXICO",MX | National Geographic HD
+http://www.1play.cool:25461/fmromero21/2fede79dc3/151425
+#EXTINF:-1 tvg-id="CO - TLC" tvg-name="2MB | TLC (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NzJf/mx_tlc.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | TLC (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134327
+#EXTINF:-1 tvg-id="I464.75176.zap2it.com" tvg-name="2MB | TUDN (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NTNf/mx_tudn.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | TUDN (MX)
+http://www.1play.cool:25461/fmromero21/2fede79dc3/134311
+# ===== EXTRA =====
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Argentina 24/7" tvg-logo="http://213.145.87.11:90/Logos/gh.png" group-title="⭐ GRAN HERMANO ARGENTINA  ⭐",Gran Hermano Argentina 24/7
+http://www.1play.cool:25461/fmromero21/2fede79dc3/422313
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Argentina CAM 1" tvg-logo="http://213.145.87.11:90/Logos/gh.png" group-title="⭐ GRAN HERMANO ARGENTINA  ⭐",Gran Hermano Argentina CAM 1
+http://www.1play.cool:25461/fmromero21/2fede79dc3/428182
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Argentina CAM 2" tvg-logo="http://213.145.87.11:90/Logos/gh.png" group-title="⭐ GRAN HERMANO ARGENTINA  ⭐",Gran Hermano Argentina CAM 2
+http://www.1play.cool:25461/fmromero21/2fede79dc3/428183
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Argentina CAM 3" tvg-logo="http://213.145.87.11:90/Logos/gh.png" group-title="⭐ GRAN HERMANO ARGENTINA  ⭐",Gran Hermano Argentina CAM 3
+http://www.1play.cool:25461/fmromero21/2fede79dc3/428184
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Argentina MultiCAM" tvg-logo="http://213.145.87.11:90/Logos/gh.png" group-title="⭐ GRAN HERMANO ARGENTINA  ⭐",Gran Hermano Argentina MultiCAM
+http://www.1play.cool:25461/fmromero21/2fede79dc3/428185
